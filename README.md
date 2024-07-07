@@ -1,59 +1,31 @@
-# Heirloom Vendor SQL Script
+# AzerothCore Enhancements Repository
 
 ## Overview
-This repository contains an SQL script for adding heirloom vendors to various starting zones in an AzerothCore-based World of Warcraft server. The script includes the creation and configuration of NPC vendors who sell heirloom items. This script is up-to-date as of July 5, 2024.
+This repository is dedicated to hosting a variety of modifications and additions for AzerothCore, a popular open-source server application for World of Warcraft. The modifications herein aim to enhance, extend, and customize the AzerothCore experience, providing server administrators and developers with tools to tailor their servers to specific needs.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
+- [Modifications](#modifications)
+- [Additions](#additions)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
-Heirloom items are special items in World of Warcraft that scale with the player's level, making them highly valuable for leveling characters. This script adds vendors that sell these items in all starting zones, ensuring new characters have access to heirloom gear right from the beginning.
+AzerothCore is renowned for its stability and extensibility, serving as a foundation for private or custom World of Warcraft servers. This repository contains community-contributed scripts, modules, and configurations that enhance the core functionality of AzerothCore, addressing specific gameplay, administrative, and performance needs.
 
-## Features
-- Adds heirloom vendors to all starting zones.
-- Configures each vendor with a comprehensive list of heirloom items.
-- Sets appropriate prices for each heirloom item.
-- Ensures compatibility with the latest AzerothCore database schema.
+## Modifications
+Details various patches and changes made to the core system to improve performance, add new features, or customize existing behaviors. Each modification is documented with its purpose and installation instructions.
+
+## Additions
+Includes a range of additional scripts, SQL files, and modules that can be integrated with AzerothCore. These additions may introduce new features, in-game events, or custom content designed to enrich the player experience.
 
 ## Prerequisites
-- An operational AzerothCore World of Warcraft server.
-- Access to the server's MySQL or MariaDB database.
-- A database management tool such as HeidiSQL, MySQL Workbench, or phpMyAdmin.
+- A working installation of AzerothCore.
+- Basic knowledge of SQL and C++ for module and database modifications.
+- Appropriate tools such as MySQL Workbench, phpMyAdmin, and a C++ IDE like Visual Studio or CLion.
 
 ## Installation
-1. **Download the Script**:
-   Clone this repository or download the SQL script file directly.
-
-   ```bash
-   git clone https://github.com/MrJambix/AZCORE_Files.git
-   cd AZCORE_Files
-   
-2. **Access the Database**:
-Connect to your AzerothCore database using your preferred database management tool.
-
-3. **Execute the Script**:
-Run the downloaded SQL script to insert the heirloom vendor data into your world database.
-
--- Use your database management tool to execute the following:
-SOURCE path/to/AzerothCoreHeirloomVendors.sql;
-
-Usage
-After installation, the heirloom vendors will be available in the following starting zones:
-
-Northshire Valley (Human)
-Coldridge Valley (Dwarf and Gnome)
-Shadowglen (Night Elf)
-Crash Site (Draenei)
-Valley of Trials (Orc and Troll)
-Deathknell (Undead)
-Camp Narache (Tauren)
-The Sunspire (Blood Elf)
-The Heart of Acherus (Death Knight)
-Each vendor offers a variety of heirloom items, including weapons, armor, and trinkets, priced appropriately for ease of use.
-
-Original code created by [Stygian ](http://stygianthebest.github.io )
+Installation may vary based on the specific modification or addition.
