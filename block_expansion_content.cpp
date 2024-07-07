@@ -1,3 +1,12 @@
+/*
+This Script was created by MrJambix
+This script blocks the player from entering Vanilla WoW Raids and The Burning Crusade and Wrath of the Lich King Dungeons.
+This script is useful for servers that want to restrict players from entering certain raids and dungeons.
+Please Do not Delete this information.
+### Credits to MrJambix ###
+### Discord: MrJambix   ###
+*/
+
 #include "ScriptMgr.h"
 #include "Player.h"
 #include "Map.h"
