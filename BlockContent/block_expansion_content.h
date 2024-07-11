@@ -17,10 +17,11 @@
 class block_expansion_content : public PlayerScript
 {
 public:
-    block_expansion_content();
-    void OnMapEnter(Player* player, Map* map) override;
+    block_expansion_content(); // Constructor declaration.
+    void OnMapEnter(Player* player, Map* map) override; // Override for handling map entry.
 };
 
+// Declaration of function to add this script to the server's script system.
 void AddBlockExpansionContentScript();
 
 #endif // BLOCK_EXPANSION_CONTENT_H
