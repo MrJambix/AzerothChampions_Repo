@@ -1,0 +1,1034 @@
+[Sat Aug 17 18:31:46.835036 2024] [mpm_winnt:notice] [pid 8524:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 18:31:46.835036 2024] [mpm_winnt:notice] [pid 8524:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 18:31:46.835036 2024] [core:notice] [pid 8524:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 18:31:46.843804 2024] [mpm_winnt:notice] [pid 8524:tid 380] AH00418: Parent: Created child process 10064
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 10064:tid 380] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 18:37:42.172888 2024] [mpm_winnt:notice] [pid 8524:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 17 18:37:44.192892 2024] [mpm_winnt:notice] [pid 10064:tid 380] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 18:37:46.326651 2024] [core:warn] [pid 9388:tid 384] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 17 18:37:46.462521 2024] [mpm_winnt:notice] [pid 9388:tid 384] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 18:37:46.462521 2024] [mpm_winnt:notice] [pid 9388:tid 384] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 18:37:46.462521 2024] [core:notice] [pid 9388:tid 384] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 18:37:46.476086 2024] [mpm_winnt:notice] [pid 9388:tid 384] AH00418: Parent: Created child process 10476
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 10476:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 18:38:22.602002 2024] [php:error] [pid 10476:tid 1276] [client ::1:51651] script 'C:/laragon/www/phpinfo.php' not found or unable to stat
+[Sat Aug 17 18:41:58.670827 2024] [mpm_winnt:notice] [pid 9388:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 17 18:42:00.704083 2024] [mpm_winnt:notice] [pid 10476:tid 384] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 18:47:14.203352 2024] [core:warn] [pid 6692:tid 380] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 17 18:47:14.286156 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 18:47:14.286156 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 18:47:14.286156 2024] [core:notice] [pid 6692:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 18:47:14.305194 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00418: Parent: Created child process 8844
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 8844:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 18:55:15.114636 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 17 18:55:15.226781 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 18:55:15.227888 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 18:55:15.227888 2024] [core:notice] [pid 6692:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 18:55:15.234522 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00418: Parent: Created child process 7056
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 7056:tid 388] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 18:55:49.331393 2024] [mpm_winnt:notice] [pid 8844:tid 384] AH00362: Child: Waiting 30 more seconds for 2 worker threads to finish.
+[Sat Aug 17 18:56:12.803141 2024] [mpm_winnt:notice] [pid 8844:tid 384] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 18:59:03.276575 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 17 18:59:03.383408 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 18:59:03.383408 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 18:59:03.383408 2024] [core:notice] [pid 6692:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 18:59:03.395181 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00418: Parent: Created child process 5132
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 5132:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 18:59:05.281615 2024] [mpm_winnt:notice] [pid 7056:tid 388] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:01:02.237647 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 17 19:01:02.345161 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:01:02.346179 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:01:02.346179 2024] [core:notice] [pid 6692:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:01:02.355929 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00418: Parent: Created child process 10800
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 10800:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:01:04.241384 2024] [mpm_winnt:notice] [pid 5132:tid 384] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:02:05.093023 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 17 19:02:05.180200 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:02:05.180200 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:02:05.180200 2024] [core:notice] [pid 6692:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:02:05.190469 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00418: Parent: Created child process 5720
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 5720:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:02:07.095134 2024] [mpm_winnt:notice] [pid 10800:tid 384] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:13:07.748552 2024] [mpm_winnt:notice] [pid 6692:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 17 19:13:09.768582 2024] [mpm_winnt:notice] [pid 5720:tid 384] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:13:27.267285 2024] [core:warn] [pid 7780:tid 408] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 17 19:13:27.351098 2024] [mpm_winnt:notice] [pid 7780:tid 408] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:13:27.351098 2024] [mpm_winnt:notice] [pid 7780:tid 408] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:13:27.351098 2024] [core:notice] [pid 7780:tid 408] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:13:27.365683 2024] [mpm_winnt:notice] [pid 7780:tid 408] AH00418: Parent: Created child process 6892
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 6892:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:14:51.273017 2024] [mpm_winnt:notice] [pid 7780:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 17 19:15:00.471426 2024] [core:warn] [pid 8696:tid 380] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 17 19:15:00.553551 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:15:00.553551 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:15:00.553551 2024] [core:notice] [pid 8696:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:15:00.564871 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00418: Parent: Created child process 712
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 712:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:16:19.376958 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 17 19:16:19.477208 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:16:19.478428 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:16:19.478428 2024] [core:notice] [pid 8696:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:16:19.491982 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00418: Parent: Created child process 5252
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 5252:tid 388] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:16:21.378012 2024] [mpm_winnt:notice] [pid 712:tid 400] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:17:27.828131 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 17 19:17:27.935412 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:17:27.935412 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:17:27.935412 2024] [core:notice] [pid 8696:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:17:27.945804 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00418: Parent: Created child process 7416
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 7416:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:17:29.831150 2024] [mpm_winnt:notice] [pid 5252:tid 388] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:18:52.356558 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 17 19:18:52.467429 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:18:52.467429 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:18:52.467429 2024] [core:notice] [pid 8696:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:18:52.474464 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00418: Parent: Created child process 8132
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 8132:tid 388] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:19:19.101902 2024] [mpm_winnt:notice] [pid 7416:tid 384] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:19:36.455801 2024] [mpm_winnt:notice] [pid 8696:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 17 19:19:38.486678 2024] [mpm_winnt:notice] [pid 8132:tid 388] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:19:40.215757 2024] [core:warn] [pid 1808:tid 412] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 17 19:19:40.280842 2024] [mpm_winnt:notice] [pid 1808:tid 412] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:19:40.280842 2024] [mpm_winnt:notice] [pid 1808:tid 412] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:19:40.280842 2024] [core:notice] [pid 1808:tid 412] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:19:40.292481 2024] [mpm_winnt:notice] [pid 1808:tid 412] AH00418: Parent: Created child process 3492
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 3492:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:20:19.947975 2024] [mpm_winnt:notice] [pid 1808:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 17 19:20:21.978952 2024] [mpm_winnt:notice] [pid 3492:tid 384] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:22:06.912913 2024] [core:warn] [pid 4132:tid 380] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 17 19:22:06.996405 2024] [mpm_winnt:notice] [pid 4132:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:22:06.996405 2024] [mpm_winnt:notice] [pid 4132:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:22:06.996405 2024] [core:notice] [pid 4132:tid 380] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:22:07.009873 2024] [mpm_winnt:notice] [pid 4132:tid 380] AH00418: Parent: Created child process 7328
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 7328:tid 200] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 19:23:24.228008 2024] [mpm_winnt:notice] [pid 4132:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 17 19:23:26.257496 2024] [mpm_winnt:notice] [pid 7328:tid 200] AH00364: Child: All worker threads have exited.
+[Sat Aug 17 19:23:36.684635 2024] [core:warn] [pid 10364:tid 384] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 17 19:23:36.772582 2024] [mpm_winnt:notice] [pid 10364:tid 384] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sat Aug 17 19:23:36.772582 2024] [mpm_winnt:notice] [pid 10364:tid 384] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Aug 17 19:23:36.772582 2024] [core:notice] [pid 10364:tid 384] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sat Aug 17 19:23:36.785120 2024] [mpm_winnt:notice] [pid 10364:tid 384] AH00418: Parent: Created child process 5580
+[Sat Aug 17 19:23:37.636627 2024] [mpm_winnt:notice] [pid 5580:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 17 20:23:10.913212 2024] [access_compat:error] [pid 5580:tid 1320] [client 154.213.185.247:44566] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 17 21:06:34.192227 2024] [cgi:error] [pid 5580:tid 1268] [client 185.224.128.83:43984] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 17 21:39:33.387651 2024] [access_compat:error] [pid 5580:tid 1268] [client 170.64.227.49:59786] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 17 21:39:34.253751 2024] [access_compat:error] [pid 5580:tid 1268] [client 170.64.227.49:60196] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 18 01:46:11.519734 2024] [access_compat:error] [pid 5580:tid 1216] [client 216.218.206.68:59014] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 18 02:06:09.488056 2024] [cgi:error] [pid 5580:tid 1192] [client 185.224.128.83:42144] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 18 02:18:27.766518 2024] [cgi:error] [pid 5580:tid 1192] [client 154.213.185.140:40050] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 18 02:26:07.085840 2024] [authz_core:error] [pid 5580:tid 1192] [client 66.249.69.71:53193] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Sun Aug 18 11:30:24.331599 2024] [core:warn] [pid 7752:tid 364] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 18 11:30:25.462681 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Aug 18 11:30:25.462681 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Aug 18 11:30:25.462681 2024] [core:notice] [pid 7752:tid 364] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Aug 18 11:30:25.478521 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00418: Parent: Created child process 8324
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 8324:tid 356] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 18 11:32:39.416185 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Aug 18 11:32:39.509924 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Aug 18 11:32:39.509924 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Aug 18 11:32:39.509924 2024] [core:notice] [pid 7752:tid 364] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Aug 18 11:32:39.525758 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00418: Parent: Created child process 7740
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 7740:tid 360] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 18 11:32:41.447119 2024] [mpm_winnt:notice] [pid 8324:tid 356] AH00364: Child: All worker threads have exited.
+[Sun Aug 18 11:32:56.322296 2024] [mpm_winnt:notice] [pid 7752:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 18 11:32:58.337879 2024] [mpm_winnt:notice] [pid 7740:tid 360] AH00364: Child: All worker threads have exited.
+[Sun Aug 18 11:33:18.447721 2024] [core:warn] [pid 4388:tid 360] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 18 11:33:18.493351 2024] [mpm_winnt:notice] [pid 4388:tid 360] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Aug 18 11:33:18.493351 2024] [mpm_winnt:notice] [pid 4388:tid 360] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Aug 18 11:33:18.493351 2024] [core:notice] [pid 4388:tid 360] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Aug 18 11:33:18.493351 2024] [mpm_winnt:notice] [pid 4388:tid 360] AH00418: Parent: Created child process 5204
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 5204:tid 380] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 18 11:33:45.478825 2024] [mpm_winnt:notice] [pid 4388:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 18 11:33:47.501037 2024] [mpm_winnt:notice] [pid 5204:tid 380] AH00364: Child: All worker threads have exited.
+[Sun Aug 18 11:34:43.267730 2024] [core:warn] [pid 8024:tid 352] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 18 11:34:43.333098 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Aug 18 11:34:43.333098 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Aug 18 11:34:43.333098 2024] [core:notice] [pid 8024:tid 352] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Aug 18 11:34:43.349527 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00418: Parent: Created child process 8128
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 8128:tid 388] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 18 14:41:59.624451 2024] [cgi:error] [pid 8128:tid 1144] [client 185.224.128.83:54006] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 18 15:20:56.973136 2024] [cgi:error] [pid 8128:tid 1208] [client 154.213.185.140:41056] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 18 16:16:10.813087 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.227.49:50222] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 18 16:16:11.686204 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.227.49:45376] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 18 18:33:17.912517 2024] [cgi:error] [pid 8128:tid 1224] [client 185.224.128.83:60834] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 18 21:01:58.907464 2024] [core:error] [pid 8128:tid 1208] [client 194.5.179.44:51002] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Aug 18 21:02:02.999553 2024] [core:error] [pid 8128:tid 1208] [client 194.5.179.44:56336] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Aug 18 21:36:48.908958 2024] [cgi:error] [pid 8128:tid 1196] [client 154.213.185.140:34588] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 18 23:14:48.490814 2024] [cgi:error] [pid 8128:tid 1196] [client 154.213.185.140:46848] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 00:42:24.666930 2024] [core:error] [pid 8128:tid 1224] [client 47.76.66.111:43598] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Aug 19 00:42:26.796698 2024] [core:error] [pid 8128:tid 1224] [client 47.76.66.111:43960] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Aug 19 01:22:26.482769 2024] [cgi:error] [pid 8128:tid 1224] [client 185.224.128.83:47128] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 02:13:30.160092 2024] [access_compat:error] [pid 8128:tid 1144] [client 170.64.227.49:51852] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 02:13:31.041763 2024] [access_compat:error] [pid 8128:tid 1144] [client 170.64.227.49:53574] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 02:58:15.799801 2024] [authz_core:error] [pid 8128:tid 1304] [client 152.32.134.166:57586] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Mon Aug 19 03:07:29.930639 2024] [access_compat:error] [pid 8128:tid 1304] [client 194.55.186.238:52984] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 03:55:51.068664 2024] [access_compat:error] [pid 8128:tid 1304] [client 170.64.227.49:55600] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 03:55:51.959424 2024] [access_compat:error] [pid 8128:tid 1304] [client 170.64.227.49:34640] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 04:38:18.089254 2024] [cgi:error] [pid 8128:tid 1304] [client 185.224.128.83:54874] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 07:46:39.978307 2024] [cgi:error] [pid 8128:tid 1208] [client 185.224.128.83:55706] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 07:57:36.068296 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.227.49:56512] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 07:57:36.897447 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.227.49:47678] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 08:23:39.929013 2024] [cgi:error] [pid 8128:tid 1208] [client 154.213.185.140:41374] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 10:37:51.538145 2024] [cgi:error] [pid 8128:tid 1196] [client 154.213.185.140:39060] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 11:24:15.716940 2024] [cgi:error] [pid 8128:tid 1196] [client 185.224.128.83:46236] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 12:03:06.927402 2024] [access_compat:error] [pid 8128:tid 1196] [client 65.49.1.64:5981] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 14:10:17.676336 2024] [core:error] [pid 8128:tid 1208] [client 103.77.173.8:49208] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Aug 19 14:10:18.646686 2024] [core:error] [pid 8128:tid 1208] [client 103.77.173.8:50376] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Aug 19 14:22:41.518907 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.227.49:45472] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 14:22:42.409903 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.227.49:52462] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 17:34:31.922014 2024] [access_compat:error] [pid 8128:tid 1224] [client 170.64.227.49:57608] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 17:34:32.821525 2024] [access_compat:error] [pid 8128:tid 1224] [client 170.64.227.49:37520] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 19 19:28:14.007811 2024] [cgi:error] [pid 8128:tid 1220] [client 154.213.185.140:52604] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 19 19:46:42.915239 2024] [cgi:error] [pid 8128:tid 1228] [client 45.156.130.35:36830] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Mon Aug 19 19:47:35.110999 2024] [cgi:error] [pid 8128:tid 1132] [client 45.156.130.35:59408] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/config.exp
+[Mon Aug 19 22:10:48.528050 2024] [cgi:error] [pid 8128:tid 1228] [client 185.224.128.83:47078] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 00:50:50.360177 2024] [cgi:error] [pid 8128:tid 1112] [client 185.224.128.83:33912] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 01:29:24.118025 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:49360] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 01:29:24.984248 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:59738] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 03:34:39.766255 2024] [access_compat:error] [pid 8128:tid 1180] [client 91.92.246.158:57166] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 04:07:05.053904 2024] [core:error] [pid 8128:tid 1132] [client 47.250.184.39:57610] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Aug 20 05:52:39.916977 2024] [cgi:error] [pid 8128:tid 1180] [client 185.224.128.59:51298] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 08:53:56.529672 2024] [cgi:error] [pid 8128:tid 1112] [client 46.101.139.7:38584] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Tue Aug 20 09:28:11.536020 2024] [authz_core:error] [pid 8128:tid 1220] [client 152.32.209.62:45610] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Tue Aug 20 10:30:01.373122 2024] [cgi:error] [pid 8128:tid 1220] [client 185.224.128.83:51192] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 11:55:59.682115 2024] [core:error] [pid 8128:tid 1224] [client 47.250.134.57:52648] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Aug 20 11:56:14.687996 2024] [core:error] [pid 8128:tid 1224] [client 47.250.134.57:53728] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Aug 20 13:07:54.439804 2024] [access_compat:error] [pid 8128:tid 1224] [client 170.64.227.49:53754] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 13:07:55.334402 2024] [access_compat:error] [pid 8128:tid 1224] [client 170.64.227.49:56072] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 14:39:07.403042 2024] [access_compat:error] [pid 8128:tid 1228] [client 185.196.9.227:49778] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 15:11:27.454769 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:56470] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 15:11:28.364727 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:48600] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 15:27:40.363445 2024] [cgi:error] [pid 8128:tid 1228] [client 185.224.128.59:34916] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 16:29:51.787294 2024] [access_compat:error] [pid 8128:tid 1228] [client 94.156.68.162:37406] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 18:14:20.335005 2024] [cgi:error] [pid 8128:tid 1224] [client 185.224.128.83:50804] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 18:32:32.794934 2024] [cgi:error] [pid 8128:tid 1224] [client 154.213.185.140:59870] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 19:28:21.099522 2024] [access_compat:error] [pid 8128:tid 1152] [client 170.64.227.49:42354] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 19:28:22.021097 2024] [access_compat:error] [pid 8128:tid 1152] [client 170.64.227.49:35998] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 20 21:37:07.417115 2024] [cgi:error] [pid 8128:tid 1104] [client 154.213.185.140:37914] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 20 22:58:08.984809 2024] [access_compat:error] [pid 8128:tid 1104] [client 185.225.232.96:37602] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 00:56:30.914413 2024] [cgi:error] [pid 8128:tid 1220] [client 185.224.128.83:54436] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 02:01:41.091809 2024] [access_compat:error] [pid 8128:tid 1220] [client 170.64.227.49:53692] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 02:01:41.968229 2024] [access_compat:error] [pid 8128:tid 1220] [client 170.64.227.49:49114] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 03:14:40.684992 2024] [cgi:error] [pid 8128:tid 1124] [client 185.224.128.59:33996] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 04:43:56.699148 2024] [access_compat:error] [pid 8128:tid 1124] [client 94.156.64.214:49946] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 05:08:42.506193 2024] [access_compat:error] [pid 8128:tid 1220] [client 170.64.227.49:33394] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 05:08:43.388216 2024] [access_compat:error] [pid 8128:tid 1220] [client 170.64.227.49:53202] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 06:15:34.444692 2024] [cgi:error] [pid 8128:tid 1220] [client 154.213.185.140:39538] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 06:29:29.046475 2024] [access_compat:error] [pid 8128:tid 1220] [client 65.49.20.68:54080] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 07:11:33.375477 2024] [cgi:error] [pid 8128:tid 1160] [client 154.213.185.140:51034] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 07:13:20.202160 2024] [access_compat:error] [pid 8128:tid 1160] [client 94.156.68.104:33112] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 07:43:26.297517 2024] [cgi:error] [pid 8128:tid 1160] [client 185.224.128.83:51504] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 10:21:10.185019 2024] [core:error] [pid 8128:tid 1228] [client 185.106.93.29:48888] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Aug 21 10:21:10.398788 2024] [core:error] [pid 8128:tid 1228] [client 185.106.93.29:48896] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Aug 21 10:57:07.085795 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:47850] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 10:57:07.990295 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:49640] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 11:25:45.092657 2024] [access_compat:error] [pid 8128:tid 1228] [client 78.153.140.177:50242] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Wed Aug 21 11:25:54.109847 2024] [cgi:error] [pid 8128:tid 1228] [client 78.153.140.177:39500] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/.env
+[Wed Aug 21 12:06:40.100780 2024] [access_compat:error] [pid 8128:tid 1228] [client 106.75.156.189:57682] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 12:32:10.069437 2024] [access_compat:error] [pid 8128:tid 1228] [client 139.144.52.241:49852] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 12:32:12.693298 2024] [access_compat:error] [pid 8128:tid 1176] [client 139.144.52.241:37572] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 12:45:48.177237 2024] [cgi:error] [pid 8128:tid 1228] [client 154.213.185.140:37268] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 13:03:21.682817 2024] [cgi:error] [pid 8128:tid 1228] [client 185.224.128.59:48890] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 13:09:36.702809 2024] [cgi:error] [pid 8128:tid 1228] [client 185.224.128.83:40858] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 13:10:31.118232 2024] [cgi:error] [pid 8128:tid 1228] [client 154.213.185.140:48236] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 17:57:26.161142 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:47794] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 17:57:27.064372 2024] [access_compat:error] [pid 8128:tid 1228] [client 170.64.227.49:38828] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 20:46:02.454894 2024] [cgi:error] [pid 8128:tid 1176] [client 185.224.128.83:52708] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 21 20:57:37.756055 2024] [access_compat:error] [pid 8128:tid 1176] [client 170.64.227.49:38252] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 20:57:38.619341 2024] [access_compat:error] [pid 8128:tid 1176] [client 170.64.227.49:59096] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 22:51:11.965856 2024] [access_compat:error] [pid 8128:tid 1176] [client 170.64.227.49:46230] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 21 22:51:12.839522 2024] [access_compat:error] [pid 8128:tid 1176] [client 170.64.227.49:34848] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 22 00:35:33.085380 2024] [cgi:error] [pid 8128:tid 1176] [client 154.213.185.140:57608] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 01:52:49.882365 2024] [cgi:error] [pid 8128:tid 1304] [client 185.224.128.83:43368] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 06:29:58.995571 2024] [cgi:error] [pid 8128:tid 1144] [client 154.213.185.140:53004] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 07:45:54.831888 2024] [access_compat:error] [pid 8128:tid 1144] [client 74.82.47.5:63546] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 22 08:07:23.314690 2024] [cgi:error] [pid 8128:tid 1144] [client 154.213.185.140:52340] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 08:18:10.007735 2024] [cgi:error] [pid 8128:tid 1144] [client 185.224.128.83:37330] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 08:35:22.365000 2024] [cgi:error] [pid 8128:tid 1144] [client 154.213.185.140:50438] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 08:56:46.303252 2024] [access_compat:error] [pid 8128:tid 1144] [client 94.156.68.162:57304] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 22 09:17:31.897258 2024] [cgi:error] [pid 8128:tid 1144] [client 154.213.185.140:35760] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 09:41:22.294773 2024] [access_compat:error] [pid 8128:tid 1304] [client 94.156.68.104:39656] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 22 13:23:21.868268 2024] [cgi:error] [pid 8128:tid 1228] [client 185.224.128.83:42760] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 18:32:12.803868 2024] [mpm_winnt:error] [pid 8128:tid 2164] AH00326: Server ran out of threads to serve requests. Consider raising the ThreadsPerChild setting
+[Thu Aug 22 18:32:12.902175 2024] [access_compat:error] [pid 8128:tid 1220] [client 91.92.244.227:35716] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/access.log
+[Thu Aug 22 18:32:12.917841 2024] [core:error] [pid 8128:tid 1136] (20025)The given path contained wildcard characters: [client 91.92.244.227:35688] AH00036: access to /.github/workflows/*.yml failed (filesystem path 'C:/laragon/www/fusioncms/.github/workflows/*.yml')
+[Thu Aug 22 18:32:12.921372 2024] [access_compat:error] [pid 8128:tid 1112] [client 91.92.244.227:35794] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/audit.log
+[Thu Aug 22 18:32:12.942891 2024] [access_compat:error] [pid 8128:tid 988] [client 91.92.244.227:35740] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/app.config
+[Thu Aug 22 18:32:12.953857 2024] [access_compat:error] [pid 8128:tid 960] [client 91.92.244.227:35784] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/audit_trail.log
+[Thu Aug 22 18:32:12.978905 2024] [access_compat:error] [pid 8128:tid 904] [client 91.92.244.227:35782] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/backup-wallet.sh
+[Thu Aug 22 18:32:13.219614 2024] [access_compat:error] [pid 8128:tid 1136] [client 91.92.244.227:35820] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/backup.sh
+[Thu Aug 22 18:32:15.661403 2024] [access_compat:error] [pid 8128:tid 796] [client 91.92.244.227:36076] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/db_backup.sql
+[Thu Aug 22 18:32:16.180194 2024] [access_compat:error] [pid 8128:tid 1136] [client 91.92.244.227:36098] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/deploy.sh
+[Thu Aug 22 18:32:16.611927 2024] [access_compat:error] [pid 8128:tid 976] [client 91.92.244.227:36126] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/env_vars.sh
+[Thu Aug 22 18:32:16.781826 2024] [access_compat:error] [pid 8128:tid 896] [client 91.92.244.227:36166] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/grafana.ini
+[Thu Aug 22 18:32:17.560883 2024] [access_compat:error] [pid 8128:tid 1008] [client 91.92.244.227:36210] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/main.config
+[Thu Aug 22 18:32:18.130003 2024] [access_compat:error] [pid 8128:tid 808] [client 91.92.244.227:49120] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/access.log
+[Thu Aug 22 18:32:18.586402 2024] [access_compat:error] [pid 8128:tid 792] [client 91.92.244.227:49414] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/deploy.sh
+[Thu Aug 22 18:32:18.618429 2024] [access_compat:error] [pid 8128:tid 896] [client 91.92.244.227:49442] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/grafana.ini
+[Thu Aug 22 18:32:18.905325 2024] [access_compat:error] [pid 8128:tid 1120] [client 91.92.244.227:49530] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/main.config
+[Thu Aug 22 18:32:19.666422 2024] [access_compat:error] [pid 8128:tid 1112] [client 91.92.244.227:49572] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/psql.config
+[Thu Aug 22 18:32:19.723680 2024] [access_compat:error] [pid 8128:tid 1196] [client 91.92.244.227:49582] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/restore.sh
+[Thu Aug 22 18:32:20.105854 2024] [access_compat:error] [pid 8128:tid 1304] [client 91.92.244.227:49624] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/script.sh
+[Thu Aug 22 18:32:21.226492 2024] [access_compat:error] [pid 8128:tid 760] [client 91.92.244.227:49740] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/transaction-audit.log
+[Thu Aug 22 18:32:21.354404 2024] [access_compat:error] [pid 8128:tid 1228] [client 91.92.244.227:49662] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/security.log
+[Thu Aug 22 18:32:21.393957 2024] [access_compat:error] [pid 8128:tid 1208] [client 91.92.244.227:49760] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/user_activity.log
+[Thu Aug 22 18:32:21.536169 2024] [access_compat:error] [pid 8128:tid 960] [client 91.92.244.227:49796] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/wallet_backup.bak
+[Thu Aug 22 18:32:21.740154 2024] [access_compat:error] [pid 8128:tid 840] [client 91.92.244.227:49814] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/web.config
+[Thu Aug 22 18:32:21.741323 2024] [access_compat:error] [pid 8128:tid 1060] [client 91.92.244.227:49834] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/~
+[Thu Aug 22 18:32:21.741323 2024] [access_compat:error] [pid 8128:tid 792] [client 91.92.244.227:49828] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/~
+[Thu Aug 22 18:32:21.748044 2024] [access_compat:error] [pid 8128:tid 908] [client 91.92.244.227:49578] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/restore-wallet.sh
+[Thu Aug 22 18:32:22.039909 2024] [access_compat:error] [pid 8128:tid 948] [client 91.92.244.227:49838] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/~
+[Thu Aug 22 18:32:22.066620 2024] [access_compat:error] [pid 8128:tid 872] [client 91.92.244.227:49842] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/~
+[Thu Aug 22 18:32:22.150581 2024] [access_compat:error] [pid 8128:tid 948] [client 91.92.244.227:49844] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/~
+[Thu Aug 22 18:32:22.215042 2024] [access_compat:error] [pid 8128:tid 956] [client 91.92.244.227:49840] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/~
+[Thu Aug 22 18:32:22.225459 2024] [access_compat:error] [pid 8128:tid 872] [client 91.92.244.227:49832] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/~
+[Thu Aug 22 20:07:57.202143 2024] [cgi:error] [pid 8128:tid 1080] [client 185.224.128.83:46546] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 22 22:19:27.977320 2024] [cgi:error] [pid 8128:tid 896] [client 154.213.185.140:40748] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 01:17:12.458558 2024] [cgi:error] [pid 8128:tid 1080] [client 185.224.128.83:33422] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 03:33:07.105718 2024] [core:error] [pid 8128:tid 896] [client 47.245.103.43:48550] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Aug 23 03:33:10.862154 2024] [core:error] [pid 8128:tid 896] [client 47.245.103.43:48994] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Aug 23 03:58:48.975795 2024] [core:error] [pid 8128:tid 896] [client 147.45.75.21:51250] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Aug 23 03:58:49.451382 2024] [core:error] [pid 8128:tid 896] [client 147.45.75.21:51260] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Aug 23 04:16:13.180424 2024] [cgi:error] [pid 8128:tid 896] [client 154.213.185.140:42208] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 05:20:47.785214 2024] [cgi:error] [pid 8128:tid 896] [client 185.224.128.83:59908] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 06:29:26.418350 2024] [core:error] [pid 8128:tid 896] [client 144.22.151.82:56656] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Aug 23 06:29:26.757960 2024] [core:error] [pid 8128:tid 896] [client 144.22.151.82:33588] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Aug 23 07:28:51.811754 2024] [access_compat:error] [pid 8128:tid 896] [client 47.88.148.247:41972] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Aug 23 08:10:33.041347 2024] [access_compat:error] [pid 8128:tid 896] [client 94.156.64.214:41972] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Aug 23 08:12:23.437162 2024] [ssl:error] [pid 8128:tid 1080] [client 44.220.188.83:57322] AH02042: rejecting client initiated renegotiation
+[Fri Aug 23 08:19:40.708893 2024] [cgi:error] [pid 8128:tid 1080] [client 185.224.128.83:58718] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 08:52:28.227838 2024] [access_compat:error] [pid 8128:tid 1080] [client 74.82.47.4:63770] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Aug 23 11:26:50.574257 2024] [cgi:error] [pid 8128:tid 1288] [client 154.213.185.140:50982] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 12:22:48.749142 2024] [cgi:error] [pid 8128:tid 1288] [client 185.224.128.83:45226] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 12:45:06.022127 2024] [cgi:error] [pid 8128:tid 1288] [client 154.213.185.140:47102] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 13:26:16.989932 2024] [authz_core:error] [pid 8128:tid 1288] [client 120.79.50.193:64615] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Fri Aug 23 16:46:37.357055 2024] [cgi:error] [pid 8128:tid 1124] [client 185.224.128.83:48698] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 16:56:35.604047 2024] [access_compat:error] [pid 8128:tid 1124] [client 78.153.140.224:51628] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Fri Aug 23 16:56:38.186226 2024] [access_compat:error] [pid 8128:tid 1080] [client 78.153.140.224:52698] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Fri Aug 23 16:56:40.074221 2024] [access_compat:error] [pid 8128:tid 1200] [client 78.153.140.224:49144] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Fri Aug 23 20:37:46.488791 2024] [cgi:error] [pid 8128:tid 1124] [client 185.224.128.83:59204] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 23 21:50:34.546952 2024] [core:error] [pid 8128:tid 1016] [client 51.161.212.158:37994] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Aug 23 21:50:35.153081 2024] [core:error] [pid 8128:tid 1016] [client 51.161.212.158:38006] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Aug 23 23:05:55.116834 2024] [cgi:error] [pid 8128:tid 1016] [client 154.213.185.140:51282] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 24 00:37:26.069500 2024] [cgi:error] [pid 8128:tid 1124] [client 185.224.128.83:46022] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 24 01:06:10.080745 2024] [cgi:error] [pid 8128:tid 1124] [client 154.213.185.140:37488] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 24 02:43:47.665361 2024] [access_compat:error] [pid 8128:tid 1124] [client 78.153.140.177:37504] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Sat Aug 24 02:44:03.771760 2024] [cgi:error] [pid 8128:tid 1124] [client 78.153.140.177:48450] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/.env
+[Sat Aug 24 07:00:08.232067 2024] [core:error] [pid 8128:tid 1200] [client 47.108.56.0:35722] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 24 07:00:18.211530 2024] [core:error] [pid 8128:tid 1200] [client 47.108.56.0:38512] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Aug 24 09:02:26.995457 2024] [access_compat:error] [pid 8128:tid 1200] [client 65.49.20.67:46496] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 24 10:13:19.589133 2024] [access_compat:error] [pid 8128:tid 1016] [client 104.156.155.35:44804] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 24 10:13:23.697012 2024] [access_compat:error] [pid 8128:tid 1124] [client 104.156.155.35:40034] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 24 10:51:29.960390 2024] [cgi:error] [pid 8128:tid 792] [client 185.224.128.83:54180] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 24 13:17:07.072148 2024] [cgi:error] [pid 8128:tid 1080] [client 154.213.185.140:33114] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 24 15:41:40.116297 2024] [access_compat:error] [pid 8128:tid 792] [client 35.216.218.233:50636] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 24 18:40:46.204707 2024] [cgi:error] [pid 8128:tid 1080] [client 185.224.128.83:39354] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 25 02:02:17.727106 2024] [access_compat:error] [pid 8128:tid 1200] [client 64.62.197.162:28047] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 03:37:08.372611 2024] [cgi:error] [pid 8128:tid 1016] [client 185.224.128.83:33410] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 25 04:19:19.215056 2024] [core:error] [pid 8128:tid 1016] [client 124.156.37.142:43260] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Aug 25 04:19:20.113246 2024] [core:error] [pid 8128:tid 1016] [client 124.156.37.142:43708] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Aug 25 07:35:55.425487 2024] [access_compat:error] [pid 8128:tid 1080] [client 106.75.6.251:39784] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 07:48:39.507558 2024] [cgi:error] [pid 8128:tid 1080] [client 185.224.128.83:34566] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 25 08:45:35.783382 2024] [access_compat:error] [pid 8128:tid 1080] [client 106.75.47.74:41746] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 10:05:15.515763 2024] [access_compat:error] [pid 8128:tid 1080] [client 52.66.255.42:60150] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 10:23:20.699684 2024] [access_compat:error] [pid 8128:tid 1080] [client 106.75.186.101:57492] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 10:36:57.833105 2024] [access_compat:error] [pid 8128:tid 1080] [client 106.75.137.178:55274] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 10:52:43.412404 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:44146] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/1.sql
+[Sun Aug 25 10:52:43.929870 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:44154] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/backup.sql
+[Sun Aug 25 10:52:44.921052 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:44160] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/database.sql
+[Sun Aug 25 10:52:45.917952 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:44174] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/data.sql
+[Sun Aug 25 10:52:46.951846 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53312] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/db_backup.sql
+[Sun Aug 25 10:52:48.908085 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53324] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/dbdump.sql
+[Sun Aug 25 10:52:49.962696 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53338] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/db.sql
+[Sun Aug 25 10:52:50.916552 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53348] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/dump.sql
+[Sun Aug 25 10:52:51.911841 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53362] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/172.86.96.102.sql
+[Sun Aug 25 10:52:52.326950 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53374] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/172.86.96.102_db.sql
+[Sun Aug 25 10:52:53.027916 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53390] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/localhost.sql
+[Sun Aug 25 10:52:53.446902 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53396] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/mysqldump.sql
+[Sun Aug 25 10:52:53.922478 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53398] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/mysql.sql
+[Sun Aug 25 10:52:54.341453 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53412] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/site.sql
+[Sun Aug 25 10:52:54.913388 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53418] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/sql.sql
+[Sun Aug 25 10:52:55.350806 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53424] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/temp.sql
+[Sun Aug 25 10:52:55.913552 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:53440] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/translate.sql
+[Sun Aug 25 10:52:56.346253 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:45310] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/users.sql
+[Sun Aug 25 10:52:57.910293 2024] [access_compat:error] [pid 8128:tid 1080] [client 47.254.153.154:45324] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/www.sql
+[Sun Aug 25 11:03:13.759306 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:45458] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/sa.bak
+[Sun Aug 25 11:03:14.965584 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:45464] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/wwwroot.bak
+[Sun Aug 25 11:03:15.912801 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:45476] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/backup.bak
+[Sun Aug 25 11:03:16.910644 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36040] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/database.bak
+[Sun Aug 25 11:03:17.912457 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36050] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/data.bak
+[Sun Aug 25 11:03:18.910495 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36052] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/db_backup.bak
+[Sun Aug 25 11:03:19.309676 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36058] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/dbdump.bak
+[Sun Aug 25 11:03:19.929809 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36072] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/db.bak
+[Sun Aug 25 11:03:20.950442 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36074] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/dump.bak
+[Sun Aug 25 11:03:21.909561 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36090] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/172.86.96.102.bak
+[Sun Aug 25 11:03:22.915118 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36106] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/172.86.96.102_db.bak
+[Sun Aug 25 11:03:23.911432 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36112] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/localhost.bak
+[Sun Aug 25 11:03:24.913277 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36124] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/mysqldump.bak
+[Sun Aug 25 11:03:25.382841 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36140] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/mysql.bak
+[Sun Aug 25 11:03:25.911002 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:36154] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/site.bak
+[Sun Aug 25 11:03:26.924553 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:34728] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/sql.bak
+[Sun Aug 25 11:03:27.907767 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:34734] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/temp.bak
+[Sun Aug 25 11:03:28.965791 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:34736] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/translate.bak
+[Sun Aug 25 11:03:29.981236 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:34752] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/users.bak
+[Sun Aug 25 11:03:31.017165 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:34760] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/www.bak
+[Sun Aug 25 11:16:45.914565 2024] [access_compat:error] [pid 8128:tid 948] [client 47.254.153.154:59188] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Sun Aug 25 11:49:53.904442 2024] [cgi:error] [pid 8128:tid 1200] [client 185.224.128.83:36548] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 25 15:04:07.377203 2024] [access_compat:error] [pid 8128:tid 1208] [client 78.153.140.151:54426] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Sun Aug 25 15:12:34.202581 2024] [cgi:error] [pid 8128:tid 1208] [client 185.224.128.83:34548] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 25 18:12:36.353101 2024] [access_compat:error] [pid 8128:tid 1016] [client 106.75.16.222:53004] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 19:08:53.817666 2024] [cgi:error] [pid 8128:tid 1016] [client 185.224.128.83:43744] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Aug 25 19:22:56.360790 2024] [access_compat:error] [pid 8128:tid 1016] [client 106.75.137.178:43138] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Aug 25 23:22:12.609666 2024] [access_compat:error] [pid 8128:tid 1080] [client 78.153.140.177:41378] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Mon Aug 26 00:03:05.005779 2024] [cgi:error] [pid 8128:tid 1080] [client 185.224.128.83:41378] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 26 02:13:28.448436 2024] [authz_core:error] [pid 8128:tid 1200] [client 118.194.251.58:57524] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Mon Aug 26 03:16:03.654369 2024] [cgi:error] [pid 8128:tid 1200] [client 185.224.128.83:37258] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 26 04:49:55.872142 2024] [access_compat:error] [pid 8128:tid 860] [client 64.62.197.26:40291] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 26 05:34:44.377587 2024] [access_compat:error] [pid 8128:tid 896] [client 78.153.140.179:37772] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Mon Aug 26 06:08:11.991261 2024] [core:error] [pid 8128:tid 1224] [client 47.245.103.43:42834] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Aug 26 06:08:14.079176 2024] [core:error] [pid 8128:tid 1224] [client 47.245.103.43:44002] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Aug 26 08:06:53.190522 2024] [cgi:error] [pid 8128:tid 1224] [client 185.224.128.83:57164] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 26 08:48:31.977661 2024] [access_compat:error] [pid 8128:tid 1224] [client 54.198.68.150:46566] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Aug 26 11:43:17.984347 2024] [cgi:error] [pid 8128:tid 1224] [client 185.224.128.83:51396] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 26 15:05:11.164875 2024] [cgi:error] [pid 8128:tid 896] [client 185.180.140.6:54700] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Mon Aug 26 19:44:08.188743 2024] [cgi:error] [pid 8128:tid 1120] [client 185.224.128.83:35926] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Aug 26 22:52:51.495762 2024] [cgi:error] [pid 8128:tid 896] [client 185.224.128.83:38000] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 27 02:12:28.914208 2024] [cgi:error] [pid 8128:tid 1124] [client 185.224.128.83:59290] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 27 04:56:18.708195 2024] [access_compat:error] [pid 8128:tid 908] [client 64.62.156.82:15517] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 27 06:12:17.413871 2024] [cgi:error] [pid 8128:tid 1200] [client 185.224.128.83:51562] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 27 11:17:49.587956 2024] [cgi:error] [pid 8128:tid 1028] [client 185.180.140.5:49760] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Tue Aug 27 13:13:02.290005 2024] [core:error] [pid 8128:tid 828] [client 31.220.78.187:55420] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Aug 27 13:13:03.667938 2024] [core:error] [pid 8128:tid 828] [client 31.220.78.187:55430] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Aug 27 13:27:17.112635 2024] [cgi:error] [pid 8128:tid 828] [client 185.224.128.83:44216] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 27 17:29:46.755549 2024] [access_compat:error] [pid 8128:tid 908] [client 106.75.164.40:50400] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 27 17:44:38.523097 2024] [cgi:error] [pid 8128:tid 908] [client 185.224.128.83:53380] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 27 21:34:23.040669 2024] [access_compat:error] [pid 8128:tid 1180] [client 94.156.68.162:35400] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Aug 27 22:18:56.913804 2024] [cgi:error] [pid 8128:tid 1180] [client 185.224.128.83:54864] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Aug 27 23:58:50.169885 2024] [access_compat:error] [pid 8128:tid 1180] [client 78.153.140.151:43666] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Wed Aug 28 00:56:02.077790 2024] [access_compat:error] [pid 8128:tid 1120] [client 78.153.140.179:50022] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Wed Aug 28 02:12:18.388740 2024] [cgi:error] [pid 8128:tid 1200] [client 185.224.128.83:34124] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 28 03:38:49.139173 2024] [access_compat:error] [pid 8128:tid 1016] [client 64.62.197.235:58815] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 28 03:39:35.727146 2024] [core:error] [pid 8128:tid 1016] [client 35.224.73.199:35888] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Aug 28 03:39:36.374619 2024] [core:error] [pid 8128:tid 1016] [client 35.224.73.199:35898] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Aug 28 05:27:00.023165 2024] [access_compat:error] [pid 8128:tid 1016] [client 78.153.140.177:35520] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Wed Aug 28 05:28:28.930569 2024] [cgi:error] [pid 8128:tid 1016] [client 78.153.140.177:58404] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/.env
+[Wed Aug 28 05:44:09.356678 2024] [cgi:error] [pid 8128:tid 1016] [client 185.224.128.83:47300] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 28 09:16:14.842043 2024] [cgi:error] [pid 8128:tid 1016] [client 185.224.128.83:34160] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 28 13:58:52.848168 2024] [cgi:error] [pid 8128:tid 1016] [client 185.224.128.83:34030] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 28 16:16:09.950460 2024] [authz_core:error] [pid 8128:tid 860] [client 165.154.206.139:34890] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Wed Aug 28 17:11:41.425673 2024] [access_compat:error] [pid 8128:tid 860] [client 3.253.143.187:50248] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Aug 28 17:38:40.940558 2024] [cgi:error] [pid 8128:tid 860] [client 185.224.128.83:40078] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 28 22:00:25.047633 2024] [cgi:error] [pid 8128:tid 1016] [client 185.224.128.83:55396] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Aug 28 22:14:18.329515 2024] [cgi:error] [pid 8128:tid 1120] [client 134.122.86.152:24208] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Wed Aug 28 22:37:41.579076 2024] [cgi:error] [pid 8128:tid 860] [client 46.101.160.217:48404] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Thu Aug 29 00:24:05.176212 2024] [authz_core:error] [pid 8128:tid 1028] [client 180.211.136.52:56884] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Thu Aug 29 02:28:45.096729 2024] [access_compat:error] [pid 8128:tid 860] [client 3.253.143.187:48490] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 29 03:31:22.981861 2024] [access_compat:error] [pid 8128:tid 828] [client 139.144.52.241:34190] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 29 03:31:23.843377 2024] [access_compat:error] [pid 8128:tid 1200] [client 139.144.52.241:37588] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 29 04:27:28.118073 2024] [access_compat:error] [pid 8128:tid 1028] [client 94.156.68.162:39986] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 29 04:37:35.507428 2024] [cgi:error] [pid 8128:tid 1028] [client 185.224.128.83:52916] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 29 05:33:01.223379 2024] [access_compat:error] [pid 8128:tid 1028] [client 3.253.143.187:58144] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 29 06:40:21.698249 2024] [authz_core:error] [pid 8128:tid 1200] [client 165.154.163.113:52482] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Thu Aug 29 08:17:45.022041 2024] [access_compat:error] [pid 8128:tid 1200] [client 74.82.47.5:3706] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Aug 29 11:39:14.862294 2024] [cgi:error] [pid 8128:tid 1200] [client 45.148.10.251:40410] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/supervisor
+[Thu Aug 29 14:55:37.329815 2024] [cgi:error] [pid 8128:tid 1200] [client 185.224.128.83:59850] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 29 16:48:18.391667 2024] [core:error] [pid 8128:tid 1200] [client 8.217.215.71:57940] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Aug 29 16:48:20.556783 2024] [core:error] [pid 8128:tid 1200] [client 8.217.215.71:58444] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Aug 29 20:30:28.747783 2024] [cgi:error] [pid 8128:tid 828] [client 185.224.128.59:51064] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Aug 29 22:25:34.807825 2024] [cgi:error] [pid 8128:tid 1028] [client 185.224.128.83:51396] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 30 03:34:47.702242 2024] [cgi:error] [pid 8128:tid 1028] [client 185.224.128.59:50466] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 30 04:53:42.587939 2024] [access_compat:error] [pid 8128:tid 860] [client 64.62.197.235:41851] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Aug 30 06:36:28.427752 2024] [cgi:error] [pid 8128:tid 1200] [client 185.224.128.83:49782] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 30 09:28:35.249534 2024] [authz_core:error] [pid 8128:tid 1200] [client 45.86.86.60:46560] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Fri Aug 30 09:28:35.632422 2024] [authz_core:error] [pid 8128:tid 1200] [client 45.86.86.60:46560] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin, referer: http://172.86.96.102/phpmyadmin/scripts/setup.php
+[Fri Aug 30 09:38:47.350942 2024] [access_compat:error] [pid 8128:tid 1200] [client 94.156.68.162:55964] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Aug 30 09:55:27.199917 2024] [cgi:error] [pid 8128:tid 1200] [client 164.90.174.60:33406] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 30 11:27:00.135254 2024] [cgi:error] [pid 8128:tid 860] [client 185.224.128.59:42160] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Aug 30 17:22:43.724365 2024] [cgi:error] [pid 8128:tid 1200] [client 45.156.130.4:42310] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Fri Aug 30 23:40:55.055266 2024] [cgi:error] [pid 8128:tid 828] [client 45.156.130.8:60644] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Sat Aug 31 01:33:52.922072 2024] [access_compat:error] [pid 8128:tid 840] [client 64.62.197.222:48313] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 31 05:11:15.795803 2024] [core:error] [pid 8128:tid 924] [client 31.220.78.187:43810] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 31 05:11:16.794705 2024] [core:error] [pid 8128:tid 924] [client 31.220.78.187:43826] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Aug 31 08:31:58.864028 2024] [access_compat:error] [pid 8128:tid 1288] [client 78.153.140.177:41766] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Sat Aug 31 08:32:17.094237 2024] [cgi:error] [pid 8128:tid 924] [client 78.153.140.177:49930] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/.env
+[Sat Aug 31 10:25:43.339560 2024] [cgi:error] [pid 8128:tid 988] [client 45.156.128.41:51898] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Sat Aug 31 11:27:28.210674 2024] [cgi:error] [pid 8128:tid 924] [client 46.101.214.252:17608] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Sat Aug 31 17:49:29.933688 2024] [access_compat:error] [pid 8128:tid 1288] [client 54.162.21.17:41948] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 31 17:49:41.802025 2024] [access_compat:error] [pid 8128:tid 1288] [client 54.162.21.17:38098] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 31 20:04:01.802447 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.141.211:56002] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 31 20:04:02.679114 2024] [access_compat:error] [pid 8128:tid 1208] [client 170.64.141.211:57432] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Aug 31 20:55:13.401294 2024] [cgi:error] [pid 8128:tid 1208] [client 185.224.128.59:55726] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 31 21:18:51.677712 2024] [ssl:error] [pid 8128:tid 1208] [client 44.220.185.193:47654] AH02042: rejecting client initiated renegotiation
+[Sat Aug 31 21:36:55.554602 2024] [cgi:error] [pid 8128:tid 1028] [client 185.224.128.84:53464] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Aug 31 23:08:36.248650 2024] [access_compat:error] [pid 8128:tid 1120] [client 94.156.68.162:43090] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 00:14:45.114844 2024] [access_compat:error] [pid 8128:tid 1120] [client 54.247.210.190:51010] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 01:05:29.908954 2024] [cgi:error] [pid 8128:tid 1028] [client 185.224.128.59:45090] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 03:55:35.126526 2024] [access_compat:error] [pid 8128:tid 1080] [client 54.247.210.190:42806] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 05:22:15.604823 2024] [access_compat:error] [pid 8128:tid 840] [client 91.92.249.4:53576] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 05:47:03.600774 2024] [cgi:error] [pid 8128:tid 840] [client 185.224.128.84:34538] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 08:26:12.424885 2024] [cgi:error] [pid 8128:tid 792] [client 185.224.128.59:60208] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 10:08:01.342058 2024] [access_compat:error] [pid 8128:tid 1132] [client 64.62.156.19:15765] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 10:57:40.517026 2024] [access_compat:error] [pid 8128:tid 1132] [client 170.64.141.211:57726] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 10:57:41.366583 2024] [access_compat:error] [pid 8128:tid 1132] [client 170.64.141.211:49626] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 10:59:57.183190 2024] [cgi:error] [pid 8128:tid 1132] [client 185.224.128.84:57006] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 13:18:29.319677 2024] [cgi:error] [pid 8128:tid 828] [client 185.224.128.59:49084] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 13:51:01.542827 2024] [access_compat:error] [pid 8128:tid 1132] [client 78.153.140.223:58374] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Sun Sep 01 13:51:02.220521 2024] [access_compat:error] [pid 8128:tid 1132] [client 78.153.140.223:45850] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Sun Sep 01 16:28:12.714329 2024] [core:error] [pid 8128:tid 988] [client 118.107.44.111:46830] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Sep 01 16:28:13.334607 2024] [core:error] [pid 8128:tid 988] [client 118.107.44.111:48002] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Sep 01 16:56:30.713416 2024] [core:error] [pid 8128:tid 1124] [client 8.216.83.6:42990] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Sep 01 16:56:31.444787 2024] [core:error] [pid 8128:tid 1124] [client 8.216.83.6:43004] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Sep 01 17:12:34.947483 2024] [access_compat:error] [pid 8128:tid 840] [client 170.64.141.211:35758] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 17:12:35.801005 2024] [access_compat:error] [pid 8128:tid 840] [client 170.64.141.211:59682] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 17:16:45.875073 2024] [cgi:error] [pid 8128:tid 840] [client 185.224.128.84:55790] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 18:06:05.752308 2024] [cgi:error] [pid 8128:tid 792] [client 185.224.128.59:59164] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 19:00:01.101807 2024] [access_compat:error] [pid 8128:tid 1016] [client 3.250.94.198:54976] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 19:08:13.278393 2024] [access_compat:error] [pid 8128:tid 792] [client 170.64.141.211:56536] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 19:08:14.139642 2024] [access_compat:error] [pid 8128:tid 792] [client 170.64.141.211:37896] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 21:14:31.773081 2024] [cgi:error] [pid 8128:tid 828] [client 185.224.128.84:43058] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 21:29:38.102166 2024] [access_compat:error] [pid 8128:tid 828] [client 170.64.141.211:58712] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 21:29:38.938678 2024] [access_compat:error] [pid 8128:tid 828] [client 170.64.141.211:43674] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 21:34:30.035155 2024] [access_compat:error] [pid 8128:tid 828] [client 3.250.94.198:49510] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 22:34:07.512974 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00424: Parent: Received restart signal -- Restarting the server.
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 8128:tid 388] AH00364: Child: All worker threads have exited.
+[Sun Sep 01 22:34:11.954712 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Sep 01 22:34:11.954712 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Sep 01 22:34:11.954712 2024] [core:notice] [pid 8024:tid 352] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Sep 01 22:34:11.962212 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00418: Parent: Created child process 10804
+[Sun Sep 01 22:34:12.950779 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Sep 01 22:34:12.952633 2024] [mpm_winnt:notice] [pid 10804:tid 360] AH00354: Child: Starting 64 worker threads.
+[Sun Sep 01 22:34:12.960625 2024] [mpm_winnt:error] [pid 10804:tid 1240] (OS 10038)An operation was attempted on something that is not a socket.  : AH00332: winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Sun Sep 01 22:34:12.960625 2024] [mpm_winnt:error] [pid 10804:tid 1244] (OS 10038)An operation was attempted on something that is not a socket.  : AH00332: winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Sun Sep 01 22:34:12.960625 2024] [mpm_winnt:error] [pid 10804:tid 1252] (OS 10038)An operation was attempted on something that is not a socket.  : AH00332: winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Sun Sep 01 22:34:12.961268 2024] [mpm_winnt:error] [pid 10804:tid 1256] (OS 10038)An operation was attempted on something that is not a socket.  : AH00332: winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Sun Sep 01 22:34:13.045164 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Sep 01 22:34:13.046635 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Sep 01 22:34:13.046635 2024] [core:notice] [pid 8024:tid 352] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Sep 01 22:34:13.052050 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00418: Parent: Created child process 9752
+Apache server restarting...
+2024] [mpm_winnt:notice] [pid 9752:tid 356] AH00354: Child: Starting 64 worker threads.
+[Sun Sep 01 22:34:14.960764 2024] [mpm_winnt:notice] [pid 10804:tid 360] AH00364: Child: All worker threads have exited.
+[Sun Sep 01 22:34:39.020561 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Sep 01 22:34:39.176851 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Sep 01 22:34:39.176851 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Sep 01 22:34:39.176851 2024] [core:notice] [pid 8024:tid 352] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Sep 01 22:34:39.181099 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00418: Parent: Created child process 1424
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 1424:tid 376] AH00354: Child: Starting 64 worker threads.
+[Sun Sep 01 22:34:41.050531 2024] [mpm_winnt:notice] [pid 9752:tid 356] AH00364: Child: All worker threads have exited.
+[Sun Sep 01 22:35:15.661799 2024] [mpm_winnt:notice] [pid 8024:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Sep 01 22:35:17.663677 2024] [mpm_winnt:notice] [pid 1424:tid 376] AH00364: Child: All worker threads have exited.
+[Sun Sep 01 22:35:49.144614 2024] [core:warn] [pid 1256:tid 364] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Sep 01 22:35:49.217531 2024] [mpm_winnt:notice] [pid 1256:tid 364] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Sep 01 22:35:49.217531 2024] [mpm_winnt:notice] [pid 1256:tid 364] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Sep 01 22:35:49.217531 2024] [core:notice] [pid 1256:tid 364] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Sep 01 22:35:49.229230 2024] [mpm_winnt:notice] [pid 1256:tid 364] AH00418: Parent: Created child process 2080
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 2080:tid 364] AH00354: Child: Starting 64 worker threads.
+[Sun Sep 01 22:37:25.718286 2024] [mpm_winnt:notice] [pid 1256:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Sep 01 22:37:27.723327 2024] [mpm_winnt:notice] [pid 2080:tid 364] AH00364: Child: All worker threads have exited.
+[Sun Sep 01 22:37:56.756478 2024] [core:warn] [pid 6612:tid 376] AH00098: pid file C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Sep 01 22:37:56.818932 2024] [mpm_winnt:notice] [pid 6612:tid 376] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Sun Sep 01 22:37:56.818932 2024] [mpm_winnt:notice] [pid 6612:tid 376] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sun Sep 01 22:37:56.818932 2024] [core:notice] [pid 6612:tid 376] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Sun Sep 01 22:37:56.825510 2024] [mpm_winnt:notice] [pid 6612:tid 376] AH00418: Parent: Created child process 6120
+[Sun Sep 01 22:37:57.481946 2024] [mpm_winnt:notice] [pid 6120:tid 360] AH00354: Child: Starting 64 worker threads.
+[Sun Sep 01 22:52:55.582809 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.59:59140] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 01 23:55:57.665361 2024] [access_compat:error] [pid 6120:tid 1248] [client 170.64.141.211:42832] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 01 23:55:58.577629 2024] [access_compat:error] [pid 6120:tid 1248] [client 170.64.141.211:42012] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 00:50:44.717336 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.84:35800] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 01:24:11.209061 2024] [access_compat:error] [pid 6120:tid 1252] [client 91.92.249.4:44924] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 02:19:52.410777 2024] [access_compat:error] [pid 6120:tid 1252] [client 170.64.141.211:42292] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 02:19:53.315654 2024] [access_compat:error] [pid 6120:tid 1252] [client 170.64.141.211:60054] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 04:24:55.837929 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.84:45670] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 04:40:51.637039 2024] [access_compat:error] [pid 6120:tid 1248] [client 54.162.21.17:41534] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 07:24:37.056313 2024] [access_compat:error] [pid 6120:tid 1296] [client 94.156.68.162:41910] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 08:11:17.907002 2024] [cgi:error] [pid 6120:tid 1248] [client 141.255.160.234:50600] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 09:02:05.576499 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.84:60448] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 09:55:38.562884 2024] [cgi:error] [pid 6120:tid 1292] [client 45.148.10.251:41780] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 10:16:57.655112 2024] [core:error] [pid 6120:tid 1248] [client 128.199.225.7:35346] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 02 10:16:58.263878 2024] [core:error] [pid 6120:tid 1248] [client 128.199.225.7:35974] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Sep 02 11:11:23.583945 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.251:37902] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 12:12:25.668035 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.84:42526] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 13:02:22.203103 2024] [access_compat:error] [pid 6120:tid 1248] [client 184.105.247.254:8382] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 13:48:21.827988 2024] [cgi:error] [pid 6120:tid 1300] [client 45.148.10.251:47822] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 15:29:32.729298 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.251:40556] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 16:28:51.045636 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.59:43312] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 16:57:52.636851 2024] [cgi:error] [pid 6120:tid 1240] [client 185.224.128.84:34880] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 17:05:01.810458 2024] [cgi:error] [pid 6120:tid 1240] [client 45.148.10.251:34590] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 17:35:31.691837 2024] [cgi:error] [pid 6120:tid 1296] [client 45.156.129.105:49454] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Mon Sep 02 17:51:13.425541 2024] [core:error] [pid 6120:tid 1292] [client 23.225.71.99:58842] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 02 21:35:03.071194 2024] [cgi:error] [pid 6120:tid 1292] [client 45.148.10.251:37308] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 02 21:59:36.339391 2024] [access_compat:error] [pid 6120:tid 1296] [client 3.250.94.198:32980] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 02 22:10:17.316975 2024] [cgi:error] [pid 6120:tid 1292] [client 45.148.10.251:38236] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 00:28:37.135755 2024] [access_compat:error] [pid 6120:tid 1188] [client 3.250.94.198:58384] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 00:29:09.983991 2024] [cgi:error] [pid 6120:tid 1188] [client 185.224.128.59:35080] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 00:43:47.276710 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.84:44962] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 00:51:15.044939 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.251:35734] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 02:11:49.724201 2024] [authz_core:error] [pid 6120:tid 1292] [client 165.154.119.19:42064] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Tue Sep 03 03:15:15.330157 2024] [cgi:error] [pid 6120:tid 1208] [client 185.224.128.84:48478] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 03:59:16.766705 2024] [access_compat:error] [pid 6120:tid 1240] [client 179.43.168.130:44266] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 04:28:54.239104 2024] [cgi:error] [pid 6120:tid 1240] [client 45.148.10.251:45684] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 05:32:47.600941 2024] [access_compat:error] [pid 6120:tid 1200] [client 64.62.197.88:40629] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 08:23:51.085766 2024] [cgi:error] [pid 6120:tid 1216] [client 185.224.128.59:44334] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 09:54:35.269076 2024] [cgi:error] [pid 6120:tid 1216] [client 45.148.10.251:50268] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 10:28:13.459433 2024] [cgi:error] [pid 6120:tid 1204] [client 141.255.160.234:42286] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 11:11:40.934936 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.84:37076] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 11:30:17.330249 2024] [cgi:error] [pid 6120:tid 1204] [client 141.255.160.234:34070] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 11:34:51.211147 2024] [access_compat:error] [pid 6120:tid 1204] [client 3.249.138.188:43560] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 12:20:31.335933 2024] [access_compat:error] [pid 6120:tid 1204] [client 94.156.68.162:36516] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 13:07:52.248240 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.84:48754] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 13:12:52.040241 2024] [cgi:error] [pid 6120:tid 1292] [client 92.249.48.213:36602] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 14:02:14.343047 2024] [access_compat:error] [pid 6120:tid 1292] [client 179.43.168.130:44106] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 14:11:30.933514 2024] [access_compat:error] [pid 6120:tid 1292] [client 106.75.6.251:38904] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 14:25:18.072944 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.59:44472] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 14:25:36.406479 2024] [cgi:error] [pid 6120:tid 1292] [client 45.148.10.247:57036] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 16:31:01.096315 2024] [access_compat:error] [pid 6120:tid 1300] [client 185.147.124.43:58022] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 17:06:51.344831 2024] [access_compat:error] [pid 6120:tid 1296] [client 94.156.68.162:38512] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 17:17:55.997716 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.84:47520] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 21:42:51.668568 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.84:40998] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 21:50:08.834338 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.59:55274] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 03 21:51:53.773048 2024] [access_compat:error] [pid 6120:tid 1204] [client 94.156.68.162:36618] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 03 23:25:34.437052 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.247:34400] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 00:16:53.408856 2024] [cgi:error] [pid 6120:tid 1204] [client 141.255.160.234:36288] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 01:19:55.578285 2024] [access_compat:error] [pid 6120:tid 1204] [client 106.75.6.251:52740] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 04 01:45:49.338039 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.84:39408] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 02:33:13.776711 2024] [access_compat:error] [pid 6120:tid 1200] [client 94.156.68.162:41938] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 04 02:38:11.525598 2024] [core:error] [pid 6120:tid 1200] [client 8.220.210.24:56890] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 04 02:38:12.465230 2024] [core:error] [pid 6120:tid 1200] [client 8.220.210.24:56902] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Sep 04 04:03:05.848932 2024] [authz_core:error] [pid 6120:tid 1304] [client 222.186.50.126:55027] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Wed Sep 04 05:05:40.574468 2024] [cgi:error] [pid 6120:tid 1200] [client 185.224.128.84:46702] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 05:41:43.412559 2024] [cgi:error] [pid 6120:tid 1200] [client 45.148.10.247:49100] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 05:53:57.790953 2024] [core:error] [pid 6120:tid 1304] [client 47.236.162.8:51764] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 04 05:53:58.650493 2024] [core:error] [pid 6120:tid 1304] [client 47.236.162.8:52084] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Sep 04 08:11:35.501197 2024] [cgi:error] [pid 6120:tid 1300] [client 45.156.130.8:37846] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/main.pl
+[Wed Sep 04 09:03:44.526429 2024] [cgi:error] [pid 6120:tid 1300] [client 185.224.128.84:53432] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 09:17:55.283018 2024] [access_compat:error] [pid 6120:tid 1244] [client 172.104.4.17:38942] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 04 09:17:55.567827 2024] [access_compat:error] [pid 6120:tid 1244] [client 172.104.4.17:32814] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 04 09:40:33.195373 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.247:54470] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 09:53:19.959666 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.59:38002] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 10:16:41.080603 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.247:51366] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 10:57:25.958441 2024] [access_compat:error] [pid 6120:tid 1204] [client 65.49.20.69:52874] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 04 11:29:15.854930 2024] [access_compat:error] [pid 6120:tid 1204] [client 179.43.168.130:58896] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 04 11:53:14.964595 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.247:33888] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 12:40:38.501122 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.84:49208] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 12:57:22.077061 2024] [cgi:error] [pid 6120:tid 1164] [client 194.165.16.26:60224] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 13:52:06.303610 2024] [cgi:error] [pid 6120:tid 1168] [client 185.224.128.59:51992] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 15:20:35.980790 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.247:46462] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 16:27:35.910161 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.247:50436] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 16:46:45.140009 2024] [core:error] [pid 6120:tid 1248] [client 107.173.166.239:46558] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 04 16:46:45.181923 2024] [core:error] [pid 6120:tid 1248] [client 107.173.166.239:46570] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Sep 04 17:17:14.764583 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.247:47570] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 17:49:37.825239 2024] [cgi:error] [pid 6120:tid 1248] [client 185.224.128.59:37986] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 19:02:40.203146 2024] [access_compat:error] [pid 6120:tid 1164] [client 195.178.110.21:48432] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 04 19:27:06.563547 2024] [cgi:error] [pid 6120:tid 1164] [client 185.224.128.83:57870] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 19:48:54.905279 2024] [core:error] [pid 6120:tid 1164] [client 47.89.232.246:43864] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 04 19:48:56.552605 2024] [core:error] [pid 6120:tid 1164] [client 47.89.232.246:43868] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Sep 04 20:30:57.756631 2024] [cgi:error] [pid 6120:tid 1164] [client 185.224.128.83:50846] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 21:20:53.001257 2024] [cgi:error] [pid 6120:tid 1164] [client 45.148.10.247:56208] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 23:00:35.590848 2024] [cgi:error] [pid 6120:tid 1248] [client 185.224.128.83:33204] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 04 23:19:52.181393 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.247:41280] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 01:58:40.450242 2024] [cgi:error] [pid 6120:tid 1248] [client 185.224.128.187:41272] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 02:34:09.244734 2024] [access_compat:error] [pid 6120:tid 1248] [client 64.62.197.187:2315] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Sep 05 03:04:42.220347 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.247:51052] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 05:15:53.600686 2024] [access_compat:error] [pid 6120:tid 1236] [client 91.92.249.4:53412] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Sep 05 05:28:23.615343 2024] [cgi:error] [pid 6120:tid 1236] [client 185.224.128.187:57142] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 05:37:24.881488 2024] [cgi:error] [pid 6120:tid 1236] [client 45.148.10.247:48000] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 09:17:13.669219 2024] [cgi:error] [pid 6120:tid 1248] [client 185.224.128.187:47986] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 09:32:09.168611 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.247:54058] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 09:45:08.305545 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.247:41096] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 11:42:06.634488 2024] [cgi:error] [pid 6120:tid 1236] [client 185.224.128.59:32962] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 12:04:00.347399 2024] [cgi:error] [pid 6120:tid 1212] [client 45.148.10.242:44790] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 12:18:33.656028 2024] [cgi:error] [pid 6120:tid 1212] [client 45.148.10.242:49466] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 13:24:45.377498 2024] [core:error] [pid 6120:tid 1212] [client 14.225.206.94:54592] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 05 13:24:45.854007 2024] [core:error] [pid 6120:tid 1212] [client 14.225.206.94:58886] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 05 13:51:00.314205 2024] [cgi:error] [pid 6120:tid 1212] [client 45.148.10.242:48704] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 13:51:27.464905 2024] [cgi:error] [pid 6120:tid 1212] [client 194.165.16.26:43746] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 15:18:02.962265 2024] [cgi:error] [pid 6120:tid 1236] [client 185.224.128.83:36702] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 15:40:20.232589 2024] [cgi:error] [pid 6120:tid 1248] [client 185.224.128.59:57770] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 16:27:52.730953 2024] [cgi:error] [pid 6120:tid 1236] [client 45.148.10.242:49538] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 17:30:32.593388 2024] [cgi:error] [pid 6120:tid 1248] [client 45.148.10.242:39102] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 18:02:20.042856 2024] [cgi:error] [pid 6120:tid 1236] [client 185.224.128.83:49710] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 19:07:29.956011 2024] [core:error] [pid 6120:tid 1200] [client 47.89.230.62:55140] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 05 19:07:30.326317 2024] [core:error] [pid 6120:tid 1200] [client 47.89.230.62:55144] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 05 19:29:11.967694 2024] [cgi:error] [pid 6120:tid 1200] [client 45.148.10.242:42466] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 19:37:05.446086 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.59:60852] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 19:49:20.221398 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.187:47282] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 20:34:09.622967 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:57568] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 21:47:22.890209 2024] [cgi:error] [pid 6120:tid 1164] [client 45.148.10.242:38688] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 22:52:36.568123 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.84:44970] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 23:14:08.373342 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.59:57106] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 23:28:19.000253 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.187:36626] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 05 23:39:30.040688 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:57208] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 00:54:06.002463 2024] [access_compat:error] [pid 6120:tid 1224] [client 45.135.57.32:7707] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 06 01:27:16.629471 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:43156] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 02:07:40.155321 2024] [cgi:error] [pid 6120:tid 1164] [client 45.148.10.242:36842] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 02:47:42.331858 2024] [cgi:error] [pid 6120:tid 1164] [client 185.224.128.187:47734] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 03:01:55.277591 2024] [cgi:error] [pid 6120:tid 1164] [client 193.32.162.34:57036] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/index.cgi
+[Fri Sep 06 03:07:29.688618 2024] [cgi:error] [pid 6120:tid 1164] [client 45.148.10.242:54750] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 03:30:07.602227 2024] [core:error] [pid 6120:tid 1164] [client 8.218.235.111:51990] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 06 03:30:08.888090 2024] [core:error] [pid 6120:tid 1164] [client 8.218.235.111:52006] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 06 03:32:08.779308 2024] [cgi:error] [pid 6120:tid 1164] [client 185.224.128.84:42674] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 04:06:51.823769 2024] [core:error] [pid 6120:tid 1240] [client 154.209.5.211:55364] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 06 04:07:01.048344 2024] [core:error] [pid 6120:tid 1240] [client 154.209.5.211:55784] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 06 04:10:21.583701 2024] [cgi:error] [pid 6120:tid 1304] [client 46.101.195.85:25736] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Fri Sep 06 05:22:17.826477 2024] [cgi:error] [pid 6120:tid 1200] [client 45.148.10.242:47276] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 06:38:51.205896 2024] [cgi:error] [pid 6120:tid 1200] [client 185.224.128.59:47500] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 07:24:18.253167 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.84:36762] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 07:31:17.711070 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:49372] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 08:50:10.928024 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:33654] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 09:53:27.397169 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:60670] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 11:14:21.930312 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.84:35122] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 11:24:31.033183 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:51348] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 12:22:24.598786 2024] [access_compat:error] [pid 6120:tid 1304] [client 64.62.197.234:63445] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 06 13:28:26.118917 2024] [access_compat:error] [pid 6120:tid 1304] [client 94.156.68.162:33142] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 06 13:52:29.081381 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:33644] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 13:59:24.030912 2024] [access_compat:error] [pid 6120:tid 1296] [client 91.92.243.155:52806] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 06 14:53:14.000676 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.84:54406] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 15:11:21.441706 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:48534] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 17:15:00.235224 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:40076] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 17:15:23.290458 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.59:45940] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 18:24:11.308014 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:46226] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 18:25:55.712569 2024] [core:error] [pid 6120:tid 1252] [client 31.220.81.30:38556] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 06 18:26:06.460827 2024] [core:error] [pid 6120:tid 1252] [client 31.220.81.30:41414] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 06 19:15:35.480586 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:52898] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 19:30:53.119371 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.59:37388] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 20:08:32.239916 2024] [access_compat:error] [pid 6120:tid 1208] [client 35.216.141.220:41518] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 06 20:11:42.733960 2024] [access_compat:error] [pid 6120:tid 1208] [client 91.92.249.4:43652] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 06 20:26:21.218944 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.187:45092] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 21:37:55.615107 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.83:44044] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 21:40:45.636173 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:59734] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 06 21:57:07.069440 2024] [access_compat:error] [pid 6120:tid 1208] [client 78.153.140.177:57970] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.config
+[Fri Sep 06 21:58:03.072505 2024] [access_compat:error] [pid 6120:tid 1208] [client 78.153.140.177:50790] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.dist
+[Fri Sep 06 21:58:26.741157 2024] [access_compat:error] [pid 6120:tid 1208] [client 54.77.188.7:46590] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 06 21:59:32.238849 2024] [access_compat:error] [pid 6120:tid 1208] [client 78.153.140.177:53264] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.swp
+[Fri Sep 06 22:01:36.489777 2024] [access_compat:error] [pid 6120:tid 1296] [client 78.153.140.177:60018] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env~
+[Fri Sep 06 23:03:35.924754 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:40254] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 00:15:25.547243 2024] [core:error] [pid 6120:tid 1296] [client 47.242.183.85:58272] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 07 00:17:50.664733 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.59:50704] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 00:34:23.483466 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.84:44176] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 00:53:37.782493 2024] [cgi:error] [pid 6120:tid 1208] [client 45.156.128.49:45672] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Sat Sep 07 01:39:41.033979 2024] [cgi:error] [pid 6120:tid 1208] [client 45.148.10.242:56172] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 01:42:18.098153 2024] [cgi:error] [pid 6120:tid 1208] [client 78.128.112.205:40190] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/welcome
+[Sat Sep 07 01:45:57.963608 2024] [access_compat:error] [pid 6120:tid 1208] [client 184.105.139.70:57648] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Sep 07 02:00:49.927780 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.83:52344] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 02:43:45.201258 2024] [core:error] [pid 6120:tid 1208] [client 8.216.82.218:59992] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 07 02:43:46.203834 2024] [core:error] [pid 6120:tid 1208] [client 8.216.82.218:60298] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Sep 07 02:54:14.652172 2024] [cgi:error] [pid 6120:tid 1208] [client 45.148.10.242:42724] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 03:32:43.970476 2024] [cgi:error] [pid 6120:tid 1208] [client 45.148.10.242:53182] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 03:39:53.769140 2024] [cgi:error] [pid 6120:tid 1208] [client 185.224.128.187:51678] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 03:49:53.130139 2024] [authz_core:error] [pid 6120:tid 1252] [client 66.249.65.231:35101] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Sat Sep 07 05:24:30.298071 2024] [cgi:error] [pid 6120:tid 1208] [client 185.224.128.83:46246] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 06:12:43.877457 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.84:58972] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 06:28:06.694963 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:36400] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 08:00:03.961918 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:42800] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 09:34:53.054481 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:37606] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 09:35:55.336016 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.83:42224] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 09:40:42.118474 2024] [cgi:error] [pid 6120:tid 1204] [client 95.214.27.194:39040] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 09:55:04.015227 2024] [core:error] [pid 6120:tid 1224] [client 8.216.85.239:59222] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 07 10:10:13.636234 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.59:48124] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 10:55:38.374595 2024] [core:error] [pid 6120:tid 1224] [client 47.236.156.253:45212] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 07 10:55:39.889345 2024] [core:error] [pid 6120:tid 1224] [client 47.236.156.253:45226] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Sep 07 10:59:36.189670 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:50818] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 12:27:47.002863 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.84:53142] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 12:31:46.289646 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:57128] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 13:17:20.105583 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.83:42056] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 14:16:17.956103 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:40082] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 15:39:13.530944 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:42446] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 16:01:06.761926 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.59:40068] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 17:01:02.615764 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.83:39038] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 17:03:56.616267 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.84:50012] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 18:01:30.700622 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:49196] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 18:43:59.847222 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:36670] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 20:18:23.829455 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.59:46434] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 20:24:33.279430 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:37546] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 20:32:33.149852 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.83:47574] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 21:22:12.130753 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.187:54502] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 21:56:31.782719 2024] [cgi:error] [pid 6120:tid 1236] [client 45.148.10.242:46308] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 23:43:52.184892 2024] [cgi:error] [pid 6120:tid 1180] [client 185.224.128.84:42574] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 07 23:58:36.346142 2024] [core:error] [pid 6120:tid 1180] [client 8.216.86.166:49898] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 07 23:58:37.261451 2024] [core:error] [pid 6120:tid 1180] [client 8.216.86.166:49904] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Sep 08 00:00:44.655711 2024] [cgi:error] [pid 6120:tid 1180] [client 45.148.10.242:40196] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 00:21:35.948857 2024] [cgi:error] [pid 6120:tid 1180] [client 185.224.128.83:41020] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 01:03:12.040895 2024] [cgi:error] [pid 6120:tid 1180] [client 194.165.16.26:46994] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 01:25:58.156975 2024] [cgi:error] [pid 6120:tid 1236] [client 185.224.128.59:40658] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 01:28:27.835864 2024] [access_compat:error] [pid 6120:tid 1236] [client 94.156.68.162:36190] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 08 02:02:47.682681 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:53980] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 02:35:45.076425 2024] [core:error] [pid 6120:tid 1180] [client 85.198.9.25:58234] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Sep 08 02:35:46.010633 2024] [core:error] [pid 6120:tid 1180] [client 85.198.9.25:59440] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Sep 08 02:41:19.492385 2024] [cgi:error] [pid 6120:tid 1180] [client 45.148.10.242:37108] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 02:46:41.752225 2024] [cgi:error] [pid 6120:tid 1180] [client 185.224.128.187:57254] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 03:28:26.225269 2024] [access_compat:error] [pid 6120:tid 1304] [client 64.62.197.238:4139] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 08 03:56:04.587025 2024] [cgi:error] [pid 6120:tid 1304] [client 45.148.10.242:53486] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 03:59:33.390069 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.83:47198] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 04:51:12.412828 2024] [access_compat:error] [pid 6120:tid 1180] [client 78.153.140.224:48424] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Sun Sep 08 04:51:29.653348 2024] [access_compat:error] [pid 6120:tid 1180] [client 78.153.140.224:56174] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Sun Sep 08 05:07:35.726814 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.84:52504] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 06:13:54.892194 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.59:37216] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 06:46:45.995006 2024] [cgi:error] [pid 6120:tid 1208] [client 45.148.10.242:55524] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 07:51:15.296490 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:54772] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 07:55:56.820415 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.83:47970] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 09:38:57.597116 2024] [access_compat:error] [pid 6120:tid 1296] [client 91.92.243.155:43830] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 08 09:57:05.757344 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:45116] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 09:58:59.139880 2024] [cgi:error] [pid 6120:tid 1208] [client 185.224.128.84:41446] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 10:06:33.167802 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.187:35108] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 11:24:42.001989 2024] [cgi:error] [pid 6120:tid 1208] [client 45.148.10.242:53132] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 11:33:55.291239 2024] [core:error] [pid 6120:tid 1208] [client 8.218.235.111:59206] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Sep 08 11:33:56.156046 2024] [core:error] [pid 6120:tid 1208] [client 8.218.235.111:59212] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Sep 08 11:45:02.853273 2024] [cgi:error] [pid 6120:tid 1300] [client 45.148.10.242:34260] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 12:13:44.076149 2024] [cgi:error] [pid 6120:tid 1300] [client 185.224.128.83:40466] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 12:15:22.479415 2024] [cgi:error] [pid 6120:tid 1300] [client 185.224.128.59:51966] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 13:33:52.908878 2024] [access_compat:error] [pid 6120:tid 1300] [client 5.182.209.97:39308] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 08 13:45:25.970663 2024] [cgi:error] [pid 6120:tid 1300] [client 185.224.128.62:48222] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 13:57:18.771649 2024] [cgi:error] [pid 6120:tid 1204] [client 45.156.130.8:46260] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Sun Sep 08 15:08:43.183782 2024] [core:error] [pid 6120:tid 1204] [client 8.212.134.63:60434] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Sep 08 15:08:44.163208 2024] [core:error] [pid 6120:tid 1204] [client 8.212.134.63:60450] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Sep 08 16:02:03.955087 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.187:52008] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 16:11:08.214152 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.83:40940] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 16:19:45.067720 2024] [cgi:error] [pid 6120:tid 1204] [client 141.98.11.84:40612] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 16:21:59.378826 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:57778] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 16:55:49.752789 2024] [access_compat:error] [pid 6120:tid 1204] [client 179.43.168.130:60084] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sun Sep 08 17:02:50.347965 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.84:35646] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 17:26:18.041540 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.59:36800] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 17:46:53.739024 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:43128] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 19:13:32.901770 2024] [cgi:error] [pid 6120:tid 1252] [client 35.176.192.228:33166] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/login.cgi
+[Sun Sep 08 19:16:34.647563 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.83:33224] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 20:50:03.727678 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:38490] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 21:46:34.077158 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:40320] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 22:35:43.210659 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.59:47804] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 23:01:09.665378 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.84:33936] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sun Sep 08 23:47:31.844383 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.83:53420] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 00:12:18.901608 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:52990] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 01:07:10.466401 2024] [cgi:error] [pid 6120:tid 1204] [client 141.98.11.48:37920] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/hotspotlogin.cgi
+[Mon Sep 09 02:18:14.531995 2024] [access_compat:error] [pid 6120:tid 1244] [client 16.170.140.0:38964] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 09 02:35:57.190568 2024] [access_compat:error] [pid 6120:tid 1244] [client 64.62.197.147:38983] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Mon Sep 09 02:40:15.378816 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:51846] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 03:02:20.752918 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.83:60856] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 03:28:18.157058 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.84:35246] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 05:41:30.236172 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:57806] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 06:57:10.339667 2024] [core:error] [pid 6120:tid 1244] [client 89.22.236.105:58978] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 09 06:57:10.644435 2024] [core:error] [pid 6120:tid 1244] [client 89.22.236.105:58494] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Sep 09 07:26:39.654683 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.83:35660] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 08:17:13.958051 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:42274] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 08:28:21.931581 2024] [core:error] [pid 6120:tid 1244] [client 8.216.89.20:34584] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 09 08:28:23.881709 2024] [core:error] [pid 6120:tid 1244] [client 8.216.89.20:35468] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Sep 09 09:11:28.639403 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.84:33618] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 09:22:45.391904 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:45080] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 10:03:28.730457 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.59:45276] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 10:11:00.810117 2024] [access_compat:error] [pid 6120:tid 1244] [client 78.153.140.179:35916] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.config
+[Mon Sep 09 10:38:57.346279 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:33974] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 11:12:17.834629 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.83:56250] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 11:23:05.089880 2024] [cgi:error] [pid 6120:tid 1244] [client 141.98.11.48:56244] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/hotspotlogin.cgi
+[Mon Sep 09 12:10:25.387356 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:55696] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 14:00:39.757788 2024] [core:error] [pid 6120:tid 1204] [client 165.154.235.96:47894] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 09 14:36:18.891760 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.83:49932] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 15:10:12.599166 2024] [cgi:error] [pid 6120:tid 1252] [client 45.148.10.242:45170] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 15:14:52.497870 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.84:36378] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 15:16:08.640268 2024] [cgi:error] [pid 6120:tid 1252] [client 185.224.128.187:52852] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 16:55:58.706278 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:54046] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 17:21:43.201552 2024] [cgi:error] [pid 6120:tid 1204] [client 141.98.11.48:41186] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/hotspotlogin.cgi
+[Mon Sep 09 18:23:04.221336 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.83:57498] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 20:01:24.382450 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:33736] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 20:18:50.557306 2024] [authz_core:error] [pid 6120:tid 1296] [client 185.196.10.225:44196] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Mon Sep 09 21:03:20.947829 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.59:49862] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 21:35:00.681253 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.84:44076] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 21:44:34.680886 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.187:43172] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 22:10:17.774749 2024] [cgi:error] [pid 6120:tid 1212] [client 45.148.10.242:59518] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 22:33:22.797627 2024] [ssl:error] [pid 6120:tid 1212] [client 44.220.185.163:46604] AH02042: rejecting client initiated renegotiation
+[Mon Sep 09 22:38:03.519699 2024] [cgi:error] [pid 6120:tid 1212] [client 185.224.128.83:43282] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 23:32:47.665684 2024] [cgi:error] [pid 6120:tid 1216] [client 45.148.10.242:59072] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Mon Sep 09 23:36:24.435998 2024] [core:error] [pid 6120:tid 1216] [client 8.211.199.102:40598] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 09 23:36:25.092388 2024] [core:error] [pid 6120:tid 1216] [client 8.211.199.102:40758] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Sep 09 23:44:24.214458 2024] [access_compat:error] [pid 6120:tid 1296] [client 167.99.181.249:34584] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 10 00:26:15.534871 2024] [access_compat:error] [pid 6120:tid 1216] [client 18.119.108.218:52702] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 10 00:26:46.012328 2024] [access_compat:error] [pid 6120:tid 1216] [client 18.119.108.218:59392] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 10 01:32:02.270743 2024] [access_compat:error] [pid 6120:tid 1296] [client 94.156.68.162:57400] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 10 01:38:33.305916 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.59:50102] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 01:47:38.853125 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:41866] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 02:51:54.971700 2024] [access_compat:error] [pid 6120:tid 1216] [client 64.62.156.31:34453] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 10 02:52:45.069382 2024] [cgi:error] [pid 6120:tid 1216] [client 185.224.128.84:55630] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 02:59:23.476183 2024] [cgi:error] [pid 6120:tid 1216] [client 185.224.128.83:42200] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 04:41:18.790659 2024] [cgi:error] [pid 6120:tid 1200] [client 141.255.160.234:48286] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 05:13:52.611626 2024] [core:error] [pid 6120:tid 1216] [client 85.190.243.5:50240] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Sep 10 05:13:53.118199 2024] [core:error] [pid 6120:tid 1216] [client 85.190.243.5:50252] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Sep 10 05:45:50.592503 2024] [cgi:error] [pid 6120:tid 1216] [client 141.255.160.234:39248] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 05:55:32.973877 2024] [cgi:error] [pid 6120:tid 1292] [client 45.148.10.242:58144] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 06:24:59.404675 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.83:49312] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 07:14:37.842194 2024] [cgi:error] [pid 6120:tid 1292] [client 45.148.10.242:49296] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 07:23:49.898722 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.59:60952] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 08:21:56.403162 2024] [cgi:error] [pid 6120:tid 1292] [client 141.255.160.234:42766] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 08:38:38.419512 2024] [cgi:error] [pid 6120:tid 1292] [client 141.255.160.234:43170] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 09:09:45.445947 2024] [cgi:error] [pid 6120:tid 1216] [client 185.191.126.213:53370] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 09:17:49.269769 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.84:38322] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 10:13:02.123885 2024] [cgi:error] [pid 6120:tid 1296] [client 141.255.160.234:36520] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 10:32:55.688056 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:53034] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 10:34:25.579965 2024] [cgi:error] [pid 6120:tid 1296] [client 185.191.126.213:39560] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 10:40:58.358340 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.187:51846] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 12:11:24.589948 2024] [cgi:error] [pid 6120:tid 1304] [client 141.255.160.234:49602] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 12:35:20.858942 2024] [cgi:error] [pid 6120:tid 1200] [client 185.191.126.213:53054] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 12:51:15.405690 2024] [cgi:error] [pid 6120:tid 1292] [client 185.191.126.213:42956] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 13:10:00.379853 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.59:52834] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 13:31:26.759803 2024] [cgi:error] [pid 6120:tid 1200] [client 185.224.128.83:53108] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 13:56:39.728849 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.84:54512] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 13:57:10.823750 2024] [cgi:error] [pid 6120:tid 1292] [client 45.148.10.242:39518] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 14:27:47.530046 2024] [cgi:error] [pid 6120:tid 1292] [client 141.255.160.234:39352] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 14:54:09.271908 2024] [cgi:error] [pid 6120:tid 1292] [client 185.191.126.213:39240] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 15:03:14.356107 2024] [cgi:error] [pid 6120:tid 1292] [client 141.255.160.234:49004] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 15:10:45.388607 2024] [cgi:error] [pid 6120:tid 1200] [client 185.224.128.187:49230] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 15:33:26.761118 2024] [cgi:error] [pid 6120:tid 1200] [client 185.191.126.213:41612] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 15:54:39.299225 2024] [cgi:error] [pid 6120:tid 1200] [client 45.148.10.242:59776] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 15:55:41.644984 2024] [cgi:error] [pid 6120:tid 1200] [client 141.255.160.234:40462] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 15:56:32.769112 2024] [access_compat:error] [pid 6120:tid 1200] [client 206.189.19.19:37724] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Tue Sep 10 16:52:00.814739 2024] [cgi:error] [pid 6120:tid 1200] [client 185.191.126.213:39414] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 16:58:39.080457 2024] [authz_core:error] [pid 6120:tid 1200] [client 185.196.10.225:37606] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Tue Sep 10 18:28:37.348217 2024] [cgi:error] [pid 6120:tid 1216] [client 141.255.160.234:47458] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 18:31:23.396427 2024] [cgi:error] [pid 6120:tid 1216] [client 185.191.126.213:40704] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 18:48:44.209583 2024] [core:error] [pid 6120:tid 1216] [client 8.216.89.241:60844] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Sep 10 18:48:45.305023 2024] [core:error] [pid 6120:tid 1216] [client 8.216.89.241:34912] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Sep 10 18:57:48.222619 2024] [cgi:error] [pid 6120:tid 1216] [client 185.224.128.59:42740] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 19:19:37.255772 2024] [cgi:error] [pid 6120:tid 1216] [client 185.191.126.213:43856] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 20:39:48.726800 2024] [cgi:error] [pid 6120:tid 1200] [client 45.156.129.46:42196] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Tue Sep 10 20:41:29.372488 2024] [cgi:error] [pid 6120:tid 1216] [client 45.148.10.242:40522] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 20:55:35.020973 2024] [core:error] [pid 6120:tid 1216] [client 8.219.4.35:47890] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Sep 10 20:55:36.072795 2024] [core:error] [pid 6120:tid 1216] [client 8.219.4.35:58282] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Sep 10 21:29:18.167500 2024] [cgi:error] [pid 6120:tid 1200] [client 185.191.126.213:37254] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 21:52:56.739260 2024] [cgi:error] [pid 6120:tid 1292] [client 185.191.126.213:58450] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 21:56:28.599792 2024] [core:error] [pid 6120:tid 1292] [client 8.220.210.24:60494] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Sep 10 21:56:29.533466 2024] [core:error] [pid 6120:tid 1292] [client 8.220.210.24:60508] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Sep 10 22:17:35.732503 2024] [cgi:error] [pid 6120:tid 1200] [client 185.224.128.187:43688] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 22:46:20.985267 2024] [core:error] [pid 6120:tid 1296] [client 165.23.42.204:45422] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Sep 10 22:46:36.969866 2024] [core:error] [pid 6120:tid 1296] [client 165.23.42.204:47416] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Sep 10 23:10:47.239132 2024] [cgi:error] [pid 6120:tid 1180] [client 185.191.126.213:45464] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Tue Sep 10 23:50:31.542196 2024] [cgi:error] [pid 6120:tid 1180] [client 45.148.10.242:57494] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 00:09:20.960309 2024] [cgi:error] [pid 6120:tid 1296] [client 141.255.160.234:56128] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 00:28:48.934471 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.59:32952] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 00:52:46.227798 2024] [cgi:error] [pid 6120:tid 1200] [client 185.191.126.213:51338] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 01:21:35.684401 2024] [cgi:error] [pid 6120:tid 1200] [client 185.191.126.213:34768] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 02:37:57.654817 2024] [core:error] [pid 6120:tid 1180] [client 8.216.85.239:58764] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 11 02:37:58.305626 2024] [core:error] [pid 6120:tid 1180] [client 8.216.85.239:58766] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Sep 11 03:31:35.540080 2024] [cgi:error] [pid 6120:tid 1180] [client 185.191.126.213:40438] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 04:00:14.344466 2024] [core:error] [pid 6120:tid 1180] [client 89.22.236.105:53104] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 11 04:00:14.714469 2024] [core:error] [pid 6120:tid 1180] [client 89.22.236.105:53110] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Sep 11 04:44:25.389618 2024] [cgi:error] [pid 6120:tid 1180] [client 185.191.126.213:58308] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 05:18:18.670399 2024] [cgi:error] [pid 6120:tid 1180] [client 185.224.128.187:57580] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 05:19:19.985020 2024] [cgi:error] [pid 6120:tid 1180] [client 185.191.126.213:54500] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 05:23:57.525696 2024] [cgi:error] [pid 6120:tid 1180] [client 185.224.128.59:32944] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 06:31:58.269482 2024] [cgi:error] [pid 6120:tid 1200] [client 45.148.10.242:37482] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 06:53:47.868062 2024] [access_compat:error] [pid 6120:tid 1200] [client 78.153.140.177:48558] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.config
+[Wed Sep 11 06:53:59.381616 2024] [access_compat:error] [pid 6120:tid 1200] [client 78.153.140.177:55736] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.dist
+[Wed Sep 11 06:54:27.394683 2024] [access_compat:error] [pid 6120:tid 1200] [client 78.153.140.177:42436] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.swp
+[Wed Sep 11 06:54:43.034287 2024] [access_compat:error] [pid 6120:tid 1200] [client 78.153.140.177:54456] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env~
+[Wed Sep 11 07:30:58.105499 2024] [access_compat:error] [pid 6120:tid 1200] [client 216.218.206.68:43330] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 11 09:40:18.097618 2024] [authz_core:error] [pid 6120:tid 1180] [client 181.161.241.81:60180] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Wed Sep 11 10:01:37.614353 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.187:49456] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 10:21:23.125275 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:51910] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 12:08:51.312541 2024] [core:error] [pid 6120:tid 1224] [client 8.211.199.102:55922] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 11 12:08:52.017616 2024] [core:error] [pid 6120:tid 1224] [client 8.211.199.102:56106] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Sep 11 13:20:11.484750 2024] [access_compat:error] [pid 6120:tid 1224] [client 179.43.168.130:53082] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 11 13:34:12.278397 2024] [authz_core:error] [pid 6120:tid 1224] [client 124.221.114.43:51187] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Wed Sep 11 14:20:55.260928 2024] [access_compat:error] [pid 6120:tid 1180] [client 91.92.243.155:51082] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Wed Sep 11 15:48:57.943092 2024] [cgi:error] [pid 6120:tid 1224] [client 45.148.10.242:45652] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 16:03:21.410707 2024] [cgi:error] [pid 6120:tid 1180] [client 185.224.128.187:36072] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 19:19:30.563276 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:40676] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 23:16:04.763413 2024] [cgi:error] [pid 6120:tid 1204] [client 45.148.10.242:35484] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Wed Sep 11 23:27:27.824697 2024] [cgi:error] [pid 6120:tid 1204] [client 185.224.128.187:53656] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 01:48:34.960559 2024] [core:error] [pid 6120:tid 1216] [client 8.216.84.25:52944] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 12 01:48:35.565982 2024] [core:error] [pid 6120:tid 1216] [client 8.216.84.25:55852] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 12 03:57:55.995163 2024] [cgi:error] [pid 6120:tid 1216] [client 45.148.10.242:49666] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 03:59:39.560801 2024] [cgi:error] [pid 6120:tid 1216] [client 185.224.128.59:59428] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 04:24:27.755745 2024] [core:error] [pid 6120:tid 1216] [client 8.216.86.166:43128] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 12 04:24:29.732041 2024] [core:error] [pid 6120:tid 1216] [client 8.216.86.166:43134] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 12 05:42:47.499611 2024] [cgi:error] [pid 6120:tid 1164] [client 134.209.252.15:29566] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Thu Sep 12 06:49:37.642023 2024] [core:error] [pid 6120:tid 1164] [client 152.42.244.23:39228] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 12 06:49:45.250468 2024] [core:error] [pid 6120:tid 1164] [client 152.42.244.23:58236] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 12 07:22:43.214148 2024] [cgi:error] [pid 6120:tid 1164] [client 45.148.10.242:56284] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 07:42:08.977173 2024] [access_compat:error] [pid 6120:tid 1164] [client 64.62.197.178:42391] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Sep 12 10:01:58.196057 2024] [cgi:error] [pid 6120:tid 1144] [client 185.224.128.187:39024] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 10:23:28.795042 2024] [core:error] [pid 6120:tid 1244] [client 46.163.146.24:50609] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 12 10:29:43.165394 2024] [access_compat:error] [pid 6120:tid 1244] [client 179.43.168.130:60972] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Sep 12 12:04:33.356117 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:39548] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 14:18:06.712279 2024] [cgi:error] [pid 6120:tid 1244] [client 141.255.160.234:35400] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 14:24:27.784399 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:56262] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 14:34:50.964084 2024] [access_compat:error] [pid 6120:tid 1244] [client 94.156.68.162:36120] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Sep 12 16:29:22.931298 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:48920] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 16:42:27.794041 2024] [core:error] [pid 6120:tid 1244] [client 47.245.103.17:55824] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 12 16:42:28.740466 2024] [core:error] [pid 6120:tid 1244] [client 47.245.103.17:55828] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 12 18:43:31.804702 2024] [cgi:error] [pid 6120:tid 1304] [client 185.224.128.47:61001] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 18:58:39.341279 2024] [access_compat:error] [pid 6120:tid 1304] [client 35.216.186.88:58214] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Thu Sep 12 19:57:15.753863 2024] [core:error] [pid 6120:tid 1296] [client 80.76.42.88:35412] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 12 19:57:16.356421 2024] [core:error] [pid 6120:tid 1296] [client 80.76.42.88:35414] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 12 22:01:46.303818 2024] [core:error] [pid 6120:tid 1200] [client 8.221.141.114:44574] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 12 22:01:46.887757 2024] [core:error] [pid 6120:tid 1200] [client 8.221.141.114:44702] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Sep 12 22:43:06.956891 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.83:46788] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 22:45:38.863856 2024] [cgi:error] [pid 6120:tid 1244] [client 45.148.10.242:34522] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Thu Sep 12 23:18:57.736031 2024] [access_compat:error] [pid 6120:tid 1244] [client 78.153.140.151:32898] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.env.bak
+[Fri Sep 13 00:42:42.680292 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.84:54750] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 00:57:56.556090 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.187:33940] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 02:08:34.445174 2024] [access_compat:error] [pid 6120:tid 1296] [client 91.92.243.155:35292] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 13 02:15:21.032525 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.83:54986] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 02:18:02.159280 2024] [cgi:error] [pid 6120:tid 1296] [client 141.255.160.234:39114] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 04:21:53.683822 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.59:49804] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 05:07:44.694089 2024] [cgi:error] [pid 6120:tid 1296] [client 45.148.10.242:60456] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 05:31:09.059664 2024] [access_compat:error] [pid 6120:tid 1296] [client 64.62.197.170:23855] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Fri Sep 13 06:05:24.325573 2024] [core:error] [pid 6120:tid 1244] [client 47.236.192.1:47782] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 13 06:05:25.772798 2024] [core:error] [pid 6120:tid 1244] [client 47.236.192.1:48642] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 13 06:07:48.782131 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.83:32950] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 06:44:44.299617 2024] [core:error] [pid 6120:tid 1244] [client 47.254.122.160:35216] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 13 06:44:44.706657 2024] [core:error] [pid 6120:tid 1244] [client 47.254.122.160:35226] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 13 07:09:19.011364 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.84:35808] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 07:15:50.291745 2024] [core:error] [pid 6120:tid 1244] [client 8.216.65.250:60148] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 13 07:15:51.321630 2024] [core:error] [pid 6120:tid 1244] [client 8.216.65.250:60452] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 13 07:24:53.093563 2024] [cgi:error] [pid 6120:tid 1244] [client 141.255.160.234:46864] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 08:13:19.721034 2024] [cgi:error] [pid 6120:tid 1200] [client 162.221.197.21:32871] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Fri Sep 13 09:26:59.966926 2024] [cgi:error] [pid 6120:tid 1200] [client 185.224.128.59:59088] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 09:59:55.242191 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.83:34870] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 11:51:18.634875 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.187:52906] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 15:12:51.324376 2024] [cgi:error] [pid 6120:tid 1296] [client 185.224.128.83:55370] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 16:14:34.068872 2024] [core:error] [pid 6120:tid 1144] [client 114.34.4.112:44534] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 13 16:14:39.424065 2024] [core:error] [pid 6120:tid 1144] [client 114.34.4.112:46784] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 13 16:45:53.099956 2024] [cgi:error] [pid 6120:tid 1296] [client 141.255.160.234:35214] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 18:32:57.134731 2024] [cgi:error] [pid 6120:tid 1200] [client 45.156.129.46:57974] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/php-cgi.exe
+[Fri Sep 13 18:37:59.800942 2024] [cgi:error] [pid 6120:tid 1200] [client 45.148.10.242:52486] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 19:00:11.322174 2024] [authz_core:error] [pid 6120:tid 1304] [client 139.84.212.63:45484] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Fri Sep 13 21:16:12.065600 2024] [core:error] [pid 6120:tid 1180] [client 8.222.175.173:43766] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 13 21:16:49.490905 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.83:49508] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Fri Sep 13 21:27:38.267895 2024] [cgi:error] [pid 6120:tid 1292] [client 141.255.160.234:55820] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 00:38:08.705056 2024] [core:error] [pid 6120:tid 1180] [client 124.243.139.41:42806] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 14 00:38:40.714033 2024] [core:error] [pid 6120:tid 1180] [client 124.243.139.41:49210] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Sep 14 00:41:46.900566 2024] [access_compat:error] [pid 6120:tid 1180] [client 65.49.1.73:3383] AH01797: client denied by server configuration: C:/laragon/www/fusioncms/.git
+[Sat Sep 14 00:51:27.698532 2024] [cgi:error] [pid 6120:tid 1200] [client 185.224.128.83:57040] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 01:50:50.705237 2024] [cgi:error] [pid 6120:tid 1180] [client 185.224.128.84:36182] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 02:28:45.229107 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.59:50612] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 02:45:35.294612 2024] [cgi:error] [pid 6120:tid 1180] [client 141.255.160.234:59066] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 03:08:21.755056 2024] [cgi:error] [pid 6120:tid 1216] [client 185.224.128.187:44396] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 03:47:28.427828 2024] [cgi:error] [pid 6120:tid 1216] [client 45.148.10.242:51282] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 06:51:52.655936 2024] [authz_core:error] [pid 6120:tid 1216] [client 152.32.226.8:42186] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Sat Sep 14 07:50:28.379260 2024] [cgi:error] [pid 6120:tid 1224] [client 141.255.160.234:42194] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 08:05:43.990563 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.187:33530] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 08:11:51.796528 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.59:60494] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 08:31:34.788138 2024] [cgi:error] [pid 6120:tid 1244] [client 185.224.128.84:49298] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 09:17:16.267905 2024] [cgi:error] [pid 6120:tid 1224] [client 185.224.128.47:61001] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 09:29:54.094433 2024] [cgi:error] [pid 6120:tid 1224] [client 185.180.140.5:37808] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/authLogin.cgi
+[Sat Sep 14 09:55:43.958418 2024] [authz_core:error] [pid 6120:tid 1244] [client 165.154.118.145:52898] AH01630: client denied by server configuration: C:/laragon/etc/apps/phpMyAdmin
+[Sat Sep 14 12:25:34.905242 2024] [cgi:error] [pid 6120:tid 1180] [client 45.148.10.242:48590] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 12:47:29.896221 2024] [cgi:error] [pid 6120:tid 1180] [client 141.255.160.234:54558] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
+[Sat Sep 14 13:10:27.658259 2024] [cgi:error] [pid 6120:tid 1292] [client 185.224.128.59:43760] AH02811: script not found or unable to stat: C:/laragon/bin/apache/httpd-2.4.54-win64-VS16/cgi-bin/luci
