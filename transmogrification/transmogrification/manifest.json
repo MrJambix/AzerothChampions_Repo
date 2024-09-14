@@ -1,0 +1,17 @@
+{
+	"name": "Transmogrification",
+	"description": "",
+	"version": "1.0.0",
+	"date": "2024-05-08",
+	"min_required_version": "9.0.2",
+	"author": {
+		"name": "Keramat Jokar (Nightprince)",
+		"website": "https://github.com/Nightprince"
+	},
+
+	"admin": {
+		
+	},
+
+	"enabled":true
+}

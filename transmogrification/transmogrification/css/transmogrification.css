@@ -1,0 +1,43 @@
+ul.class-navbar-nav {
+	padding-left: unset;
+}
+
+li.class-nav-item.active a {
+	 color: #e6bf88 !important;
+}
+
+.box.type-menu .navbar {
+	display: none;
+}
+
+.col-lg-8 {
+	width: 100% !important;
+}
+
+.nice_table {
+	width: 100% !important;
+}
+
+#transmog-list_filter {
+	display: none;
+}
+
+table#transmog-list {
+	margin-top: 0 !important;
+}
+
+.multiline {
+	white-space: pre-wrap;
+}
+
+div:where(.swal2-container) .swal2-select {
+	max-width: 90% !important;
+}
+
+div:where(.swal2-container) div:where(.swal2-validation-message) {
+	margin: 1em !important;
+}
+
+.swal2-select option {
+	color: #fff;
+}
